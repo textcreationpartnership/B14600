@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The merchants new-royall-exchaunge framed at Roan, and brought ouer to be set vp in England. Or, A law-booke for English merchants.</title>
+         </titleStmt>
+         <extent>Approx. 95KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14600</idno><idno type="EEBO-CITATION">99844470</idno>
+  <idno type="VID">178654</idno>
+  <idno type="EEBO-PROQUEST">2264193979</idno>
+  <idno type="STC">STC 16784</idno>
+  <idno type="STC">ESTC S108815</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99844470e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14600)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178654)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1209:19; 1932:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The merchants new-royall-exchaunge framed at Roan, and brought ouer to be set vp in England. Or, A law-booke for English merchants.</title>
+                  <author>France. Sovereign (1547-1559 : Henry II). Proclamations. 1556-03.</author>
+               </titleStmt>
+               <extent>[96] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T[homas] C[reede] for Cutbert Burbey, and are to be sold at his shop in Paules Church-yard, at the signe of the Swanne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1604.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a translation of the edict of Henry II, dated March 1556, establishing the royal exchange in Rouen.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A⁴ B-F G⁴.</note>
+                  <note>Running title reads: The merchants new royall exchange.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Royal Exchange (London, England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178654:1"/>
+            <pb facs="tcp:178654:1"/>
+            <p>THE MERCHANTS NEW-ROYALL <hi>Exchaunge:</hi> Framed at <hi>Roan,</hi> and brought ouer to be set vp in <hi>England.</hi>
+            </p>
+            <p>OR, <hi>A Law-Booke for English</hi> Merchants.</p>
+            <q>
+               <hi>Concordia paruae res crescunt.</hi>
+            </q>
+            <figure>
+               <figDesc>griffin on top of book</figDesc>
+            </figure>
+            <p>LONDON Printed by T.C. for Cutbert Burbey, and are to be sold at his Shop in Paules Church-yard, at the signe of the Swanne. 1604.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:178654:2"/>
+            <pb facs="tcp:178654:2"/>
+            <head>TO MY LO<g ref="char:EOLhyphen"/>uing Country-men, but <hi>espe<g ref="char:EOLhyphen"/>cially to the Merchants of London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">G</seg>Olde is the Merchaunts Cape of <hi>Buon Esperanze,</hi> he sailes about the world onely to recouer it: for Riches is the brightest star, whose heighth, Traf<g ref="char:EOLhyphen"/>ficke takes, to direct it selfe by. Yet doth this Tree of Enter-course bring foorth other sweete and delectable fruites: It is not alto<g ref="char:EOLhyphen"/>gether planted in the garden of the <hi>Hesperi<g ref="char:EOLhyphen"/>des,</hi> onely to beare golden Apples: No: It carries other frutages, almost as faire: For the vertue of Comerce, is to discouer coun<g ref="char:EOLhyphen"/>tries: the pleasure of it, to be familiar with Nations: the exercise of it, to get politique experience: the benefit double: for both the forrein &amp; the free-borne are crowned with wealth by it: the black Indian, &amp; the white Englishman, sill their purses by one &amp; the
+<pb facs="tcp:178654:3"/>same bargaine. So that the Straunger (how much Salt-water soeuer parts him and vs) is a husband-man in our owne Country: hee reapes the fruites of our earth as plenteously and as freely as wee our selues: Is acquain<g ref="char:EOLhyphen"/>ted with the blessings of our Land, and tastes them as we do. And though he cares not to vnderstand our Language, yet is he curious to vnderstand our Ladings: looking rather into the bottomes of our Shippes, than on the brauery of our Parlours. And this hap<g ref="char:EOLhyphen"/>pinesse which hee deriues from vs, we doe backe againe reduce from him: So that it is but a neighbourly borrowing and lending betweene Kingdomes. And all these good<g ref="char:EOLhyphen"/>ly Triumphes are brought in by Traffick, Merchants being the chiefe and Maister-workmē that giue thē beautie &amp; Illustratiō. To speake in praise of whose dignitie, were idlely to extoll that, whose worthines none can call in question. Sure it is, that all Com<g ref="char:EOLhyphen"/>mon-weales florish where they prosper, and wither where they are pluckt vp: Insomuch that Kings haue bin, &amp; at this day are of the Societie, the greatest number of their houres being spent in the exercise of Merchandize.</p>
+            <p>The affection therefore which I carry to all you (my deare Country-men that pro<g ref="char:EOLhyphen"/>fesse this Art of Negotiatiō:) together with an Ardor and zeale to see the Merchants of this Kingdome, grow vp into a liuely Poli<g ref="char:EOLhyphen"/>ticall
+<pb facs="tcp:178654:3"/>Bodie, as they do now in <hi>France</hi> and o<g ref="char:EOLhyphen"/>ther Dominions: haue giuen me a boldnes and willingnes to entertaine this labour. It is a <hi>New,</hi> &amp; a <hi>Royall-English-Exchange,</hi> which I would build for you: The Moddell of it, I confesse, I founde drawne to my hand in <hi>France,</hi> you all are acquainted with it: Set then all your hands to the Frame, and helpe to reare it vp in England. Cast not your eyes on the rough pieces which I haue hewē out, but on the purpose, for which they are thus wrought vpon. And albeit perhaps, my ig<g ref="char:EOLhyphen"/>norāce &amp; vnpractised familiaritie with these French phrases, which here speak their Law in broken English, may make you cast aside this booke in the reading, yet doe not cast a<g ref="char:EOLhyphen"/>side the matter. Admit that in turning ouer the leaues, you should finde no other stuffe then this, that the French King (imitating therein, the Greeks and auncient Romanes) hath iustituted such a Burse or Guild-house, for Merchants: and ordained three such Of<g ref="char:EOLhyphen"/>ficers, &amp;c. Why euen this should be enough to intice you (whō it concernes) to buy this paper-commoditie: and hauing founde this measure of <hi>Hercules</hi> his foot only, not to cease til you haue got so much cunning, as to draw out the whole symetrical proportiō of all his body. You haue many helpes to do it: you haue the voices not only of forren Christian Kinges speaking in your behalfe, But e<g ref="char:EOLhyphen"/>uen of our owne most gracious and godly
+<pb facs="tcp:178654:4"/>Soueraign. The penne (with which he hath not many yeares since, signed such like Royall Priuiledges, for the benefit of his Countrey <hi>Scotlande,</hi> and the Merchaunts thereof,) holds yet ynck enough in it, to be<g ref="char:EOLhyphen"/>stow the like Princely grace vpon you the Merchants of England. Be humble petitio<g ref="char:EOLhyphen"/>ners to his Maiestie for it. It is no Innoua<g ref="char:EOLhyphen"/>tion: It is no vpstart attempt: other Realmes haue broken the yee: follow you their steps, that a way may lye smooth before you.</p>
+            <p>There are many Spurres, that (if they were clapt to your sides) would make you to keep company in this beaten path. They whose money-bags are shrunke together by reason of that Siluer Consumption, which tedious Lawe-suites haue brought them in<g ref="char:EOLhyphen"/>to, can rise vp as sittest Orators to perswade you to this enterprise. The wofull experi<g ref="char:EOLhyphen"/>ence of many a sometimes-wealthy Citizen, (who hauing scapte shipwracke on the seas, hath notwithstanding bin cast away on the land, by intangling his estate in the nettes of the Lawe) may with his cryes awaken you, to preuent the like future mischiefes, that (without prouidence) may fall vppon your selues. Be wise therefore: A medicine is in<g ref="char:EOLhyphen"/>uented, and (by the tryall of other Cities that haue taken the phisicke) approued to be so wholesome, that it cannot choose but doe
+<pb facs="tcp:178654:4"/>London much good. Do but entertaine (for a taste) these considerations: Of what fashi<g ref="char:EOLhyphen"/>on are all your controuersies? Flow not all your variances frō the troubled head of your Accounts? Are not your suites (which now and then many yeares cannot weare out) drawne from your bargaines and barterings when they be not perfectly wrought? What hands therfore may better vntye those knots than your owne among whome they are fa<g ref="char:EOLhyphen"/>stened? Who are fitter to conduct you out of those windings &amp; turning-Mazes wher<g ref="char:EOLhyphen"/>in the whole estates of many wealthy Mer<g ref="char:EOLhyphen"/>chants are often-times halfe-lost, than your selues, that haue best experience in those causes, by reason of your daily and hourely treading in those pathes?</p>
+            <p>Suruey therefore all the roomes of this beautifull French building: yet I do not en<g ref="char:EOLhyphen"/>ioyne you, neither thinke I it conuenient, that you purchase the same, in all respects as it is to be seene standing heere: but by this patterne, you may easily fashion such ano<g ref="char:EOLhyphen"/>ther, more apt for your selues, and more a<g ref="char:EOLhyphen"/>greeable to the condition of our own Coun<g ref="char:EOLhyphen"/>trey.</p>
+            <p>Do but study this Merchants <hi>Law-Booke,</hi> with <hi>y<seg rend="sup">e</seg>
+               </hi> same carefulnes that you peruse your Debitor &amp; Creditor, and you shal not need so often to goe to Law. It is a learning will
+<pb facs="tcp:178654:5"/>much aduance you and your posterities, fol<g ref="char:EOLhyphen"/>low it therefore. And thus wishing safe har<g ref="char:EOLhyphen"/>bors to your Shippes when they are foorth, and to your Soules the land of heauen, when they are bound thither, I bid you farewell.</p>
+         </div>
+      </front>
+      <body>
+         <div type="edict">
+            <pb facs="tcp:178654:5"/>
+            <head>THE <hi>MER<g ref="char:EOLhyphen"/>chants Newe Royall Ex<g ref="char:EOLhyphen"/>chaunge.</hi>
+            </head>
+            <head type="sub">An Edict by the King, for the ordeining and establishing (in the Citie of <hi>Roane</hi>) of a Common place for Merchants, ac<g ref="char:EOLhyphen"/>cording to the order of the Change in <hi>Li<g ref="char:EOLhyphen"/>ons,</hi> and the Bourse in Thoulouze.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>Enry</hi> by the grace of God King of <hi>France,</hi> to all maner of per<g ref="char:EOLhyphen"/>sons of what estate soeuer greeting; As we haue bin hereto<g ref="char:EOLhyphen"/>fore aduertised, that our Citie of <hi>Roane</hi> is one of the best Townes in all our Kingdome, by rea<g ref="char:EOLhyphen"/>son of the scituation and aptnesse for all Comerce and Trafficke, where di<g ref="char:EOLhyphen"/>uers Merchants (as well of this our Realme, as of many other Nations) do vsually hold an entercourse of buying and selling, for the continuance &amp; pro<g ref="char:EOLhyphen"/>pagatiō
+<pb facs="tcp:178654:6"/>of which Trade, There hath of late (by vertue of our Letters missiue) bene erected &amp; established in the same Citie, a <hi>Common place for Merchants and their Factors</hi> to assemble themselues in, twise euery day at the houres accusto<g ref="char:EOLhyphen"/>med; to dispatch their affaires and Ne<g ref="char:EOLhyphen"/>gotiations in such maner as is accusto<g ref="char:EOLhyphen"/>mably vsed in the Change at <hi>Lyons,</hi> and the Bourse at <hi>Thoulouze,</hi> to the in<g ref="char:EOLhyphen"/>tent that the forreine Commodities of other Countries may more readily be transported and exchanged away with those which our owne bringeth forth.</p>
+            <p>Be it therefore knowne to all men, that Wee (through an ardent zeale and desire that we carry to aduance the ge<g ref="char:EOLhyphen"/>nerall good of our said Citie of <hi>Roane,</hi> and to augment the Common benefit and ease of all Merchants Negotiating there, and in all things possible to gra<g ref="char:EOLhyphen"/>tifie them, that they may not be distra<g ref="char:EOLhyphen"/>cted &amp; drawne from their affaires and businesse, into sundry Courts and Iu<g ref="char:EOLhyphen"/>risdictions, (by meanes of Suites and variances arising at any time about their Trafficke) by the deliberate ad<g ref="char:EOLhyphen"/>uise
+<pb facs="tcp:178654:6"/>of our Priuie Councell, (together with diuers Noble men and Princes of our blood) besides other great &amp; Ho<g ref="char:EOLhyphen"/>norable personages: Of our owne pro<g ref="char:EOLhyphen"/>per motion, assured knowledge, and Regall authoritie, haue approued and confirmed, and by these presents do approue and confirme, the making and establishing, of the saide <hi>Common Place</hi> in that our Citie of <hi>Roane,</hi> Instantly ra<g ref="char:EOLhyphen"/>tifying the same in all points, with the Change of <hi>Lyons,</hi> and the Bourse of <hi>Thoulouze.</hi>
+            </p>
+            <p>Willing &amp; ordeining, and our plea<g ref="char:EOLhyphen"/>sure is, that all Merchants, Factors, and all others of what Nation soeuer, may assemble themselues in the same twise euery day, at the houres accustomed: And in their meetings shall freely vse their Traffiicke, and passe their Busines aswell by exchange as otherwise, not onely in the same place, but also in any other whatsoeuer within the Liberties of our said citie of <hi>Roane,</hi> whē &amp; where they shal think good, with all assurance and safetie to their Merchandize: And withall those Priuiledges &amp; Liberties,
+<pb facs="tcp:178654:7"/>which Merchaunts Trading to our Townes of <hi>Lyons</hi> and <hi>Thoulouze,</hi> do enioy and vse, according to the graunt of our predecessors kings of <hi>France</hi> and of vs.</p>
+            <p>Furthermore, We will and ordaine, that the Merchants of the said Towne of <hi>Roane</hi> (frequenting the same place) shall euery yeare cause a societie of Merchants to be in the Lodge of the said Bourse, or in any other place in the same Towne, and at such time as they shall thinke good, in which meeting they shall chuse out of the said number three officers, <hi>viz.</hi> A Prior &amp; two Con<g ref="char:EOLhyphen"/>sulls, to remaine in their authoritie for one yeare, and so yearly to be changed, and there new to be elected, according to the ordinary forme of most voyces: not only the Merchants of the Towne of <hi>Roane,</hi> but also the Merchant straun<g ref="char:EOLhyphen"/>gers, being to be present &amp; assistants in the said election: which election and nomination being fully ended, the said Prior and Consulls shall haue present power in them, to take knowledge and to giue iudgement (betweene all men
+<pb facs="tcp:178654:7"/>of what estate, qualitie, or condition soeuer they be) of all suites, controuer<g ref="char:EOLhyphen"/>sies, and differences touching matters of Merchandizing or buying and sel<g ref="char:EOLhyphen"/>ling, in such maner as the <hi>Conseruator</hi> of the Fayre at <hi>Lyons,</hi> and the Prior and Consull at <hi>Thoulouze</hi> do, aswel for Ob<g ref="char:EOLhyphen"/>ligations, Bills of debt, Receits, Blankes signed, Bills of Exchange, Answers by Suerties, Associations of Merchants, (either generall or particular) Assuran<g ref="char:EOLhyphen"/>ces, Accounts, Transportations, Bar<g ref="char:EOLhyphen"/>gaines, and partnerships, for matters a<g ref="char:EOLhyphen"/>foresaid, or any thing belonging there<g ref="char:EOLhyphen"/>vnto, with as full strength, and accor<g ref="char:EOLhyphen"/>ding to the Iudgments, and Condem<g ref="char:EOLhyphen"/>nations, of the saide Conseruators of <hi>Lyons,</hi> and the Pryor and Consulls of <hi>Thoulouze,</hi> And that the Iudgements: and Sentences, Decrees and Ordinan<g ref="char:EOLhyphen"/>ces, Commissions and Commaunde<g ref="char:EOLhyphen"/>ments of the said Prior and Consuls of <hi>Roane,</hi> by speeches, prouisions, or defi<g ref="char:EOLhyphen"/>nitiues, shall stand in as much force and effect, for any matter Iudicially deter<g ref="char:EOLhyphen"/>mined, as those causes which the Con<g ref="char:EOLhyphen"/>seruator of <hi>Lyons,</hi> and Prior and Con<g ref="char:EOLhyphen"/>sulls
+<pb facs="tcp:178654:8"/>of <hi>Thoulouze,</hi> and others of our Iudges do decide: And the same shall be executed by our Serieants and Of<g ref="char:EOLhyphen"/>ficers, in such maner and forme, as they are in their behalf aboue named, either by cōmitting to prison, or by inflicting seuere punishment, if it be so decreed and ordeined: And to that ende shall our Messengers and Officers be bound to performe the executions: Our Iay<g ref="char:EOLhyphen"/>lors and Keepers of our prisons, shall likewise be bound to receiue and keep all such prisoners, in such manner as if they were committed vnto them by our aboue-said Iudges, and with the like bond and penaltie (if any escape happen) as they be bound to keepe the prisoners by the authoritie of the saide Iudges, For so we haue enioyned, and do enioyne our Messengers, and other our Officers, Iaylors, and Keepers of prisons, vpon such penalties, as the case shall require, and according as by the said Prior and Consulls shall be set downe and declared, without any de<g ref="char:EOLhyphen"/>fault, according as the offence com<g ref="char:EOLhyphen"/>mitted shall require.</p>
+            <pb facs="tcp:178654:8"/>
+            <p>Moreouer, we haue suffered, and do suffer, the saide Prior and Consulls, to take vnto them, twentie of the saide Merchants, or more or lesse as they shal thinke reasonable, to assist them in pro<g ref="char:EOLhyphen"/>ceeding in their Iudgements, in causes of Merchandize, Bils of Exchange, As<g ref="char:EOLhyphen"/>surances and Differences as abouesaid, And to cause to be executed, their Sen<g ref="char:EOLhyphen"/>tences, Iudgements, and Ordinances, of pawnes and Consignements, proui<g ref="char:EOLhyphen"/>sions, seyzing of goods, and all their other Condemnations, Sentences or appointments, to proceed therein by Cries, Proclamations, giuing notice to themselues, or leauing notice at their houses by proofe, sales, depositings, deliueries, and execution definitiue as the case shall require.</p>
+            <p>Likewise, We giue them power, to direct the same Proces, and to proceed therein, according to their Ordinan<g ref="char:EOLhyphen"/>ces, as well in matters summarily, as by prouision: As Reknowledgement of Billes, Subscriptions, and Letters of Exchange.</p>
+            <pb facs="tcp:178654:9"/>
+            <p>And the like in acts of pawnes and consignments, by one onely fault duly proued, by sommoning the person at his house, or fixing there a coppy of the Commission or proces, in all places where it is lawfull to bee done. And touching other matters, where two de<g ref="char:EOLhyphen"/>faults shall be made, or sommoned in person, they shall proceed, obserue, and keepe the course according to the Kings ordinances. And for all matters wherein they shall giue sentence of ex<g ref="char:EOLhyphen"/>excutiō according to their knowledge, We will, and We doe permit them (as before is sayd) to cause the execution to passe in all places of our Court of Parliament at <hi>Roane,</hi> and in all other places of our Kingdome, where neede shall require: without any disturbance, or let to be done, by any of our Iudges, Iusticers, or Officers, either against them, or their deputies: Neither shall they let or hinder any sommons, or ar<g ref="char:EOLhyphen"/>rest, exploite, or assignement to be done before them.</p>
+            <p>And to giue their assistance in all causes appertaining to their know<g ref="char:EOLhyphen"/>ledge,
+<pb facs="tcp:178654:9"/>touching matters of Trafficke, and all things thereunto belonging, a<g ref="char:EOLhyphen"/>gainst al Merchants trading in our said Citie of <hi>Roane.</hi> And as touching their factors, dealers, &amp; intermedlers, of what qualitie soeuer they be, (sent by them into diuers Countries, Regions, and Prouinces, as well within as without our Kingdome, Countries, and Domi<g ref="char:EOLhyphen"/>nions vnder our obecens, for the cause of Trafficke, Merchandizing, &amp; doing of businesse, and all other things there<g ref="char:EOLhyphen"/>vnto belonging;)</p>
+            <p>We wil and ordaine, that they may bee constrained to bring their causes and proofes, for all matters aforesaide, before the sayd Prior, and Consuls, for the time now being, or that shall here<g ref="char:EOLhyphen"/>after execute these Offices: be it either for the rendring of account, and satis<g ref="char:EOLhyphen"/>faction of part, or of whole, or con<g ref="char:EOLhyphen"/>demnations in penalties, or other con<g ref="char:EOLhyphen"/>demnations for amends for trespasses, and of all other things that shall bee re<g ref="char:EOLhyphen"/>quisite, concerning, and belonging to the trade of Merchandize, according as they shall deserue; Whereof Wee
+<pb facs="tcp:178654:10"/>haue permitted them, and do giue thē power to vse the forme, euen as the sayd Conseruator of <hi>Lyons,</hi> Prior and Consuls of <hi>Thoulouze,</hi> and others our Iudges do. And to cause execution to be serued on the offenders, either by arrest, attachement of goods, and sale thereof; or by impisonment of the par<g ref="char:EOLhyphen"/>ties condemned, euen as they shall thinke good. Inhibiting all our Iudges to presumne to take knowledge of any of their sayd proceedings, or of any matter or plea thereunto belonging: which our Commaund, We will to be notified vnto them, and vnto whom it shall appertaine, by the first of our Of<g ref="char:EOLhyphen"/>ficers, or Seriants that shall bee requi<g ref="char:EOLhyphen"/>red, whom We inioyne to performe the same accordingly, to the intent that all those charges and extraordinarie expences, which Merchants may be put vnto, in following their suits against their Factors and dealers, before many Iudges, might by this meanes be vtter<g ref="char:EOLhyphen"/>ly auoided.</p>
+            <p>Furthermore, We haue permitted and do giue authoritie to the said Pri<g ref="char:EOLhyphen"/>or
+<pb facs="tcp:178654:10"/>and Consuls, that al such penalties of moneyes as by thē shall be inflicted vp<g ref="char:EOLhyphen"/>on men for cōtempts, or any other of<g ref="char:EOLhyphen"/>fences, shalbe forfeited, the one halfe to Vs, the other halfe to the vse of the said Common place, or Bourse of <hi>Roane,</hi> to supply the wants thereof; Allowing them likewise, absolute libertie and power, to chuse and constitute one Counsellour, and one Atturney, who shall by all lawfull meanes, labour the benefit and aduauncement of the sayd place, and shall defend the same; to di<g ref="char:EOLhyphen"/>rect their proces and causes, aswell be<g ref="char:EOLhyphen"/>fore the said Priors and Consuls, as be<g ref="char:EOLhyphen"/>fore all other Iudges.</p>
+            <p>And to the end, that the Merchants may assemble themselues, as well to cousult of their common affaires, as to constitute the sayd Counsellour and Atturney, without being subiect to re<g ref="char:EOLhyphen"/>paire to Vs, or to our Iudges for leaue, when need shall require. Therefore all such Iudgements as shall passe before the Prior and Consuls, being sealed with their seales, and signed by a Regi<g ref="char:EOLhyphen"/>ster by them appointed, be it by impri<g ref="char:EOLhyphen"/>sonment,
+<pb facs="tcp:178654:11"/>sale, disposing of goods, or otherwise, shall be held for reall and lawfull, being past in maner aforesaid; without any constraint to obtaine our further permission or liking, euen ac<g ref="char:EOLhyphen"/>cording as was permitted by our most honourable father the King, vnto the Merchants of our Citie of <hi>Lyons,</hi> by his Letters pattents; Giuen in the month of February, in the yeare of our Lord, 1535. Reseruing vnto our said Court of Parliament, at our said Citie of <hi>Roane,</hi> for a last conclusion; and by appeale, the iurisdiction and knowledge of the sayd discords and differences.</p>
+            <p>And to the end that all such appeales as shall proceed, by reason of the iudge<g ref="char:EOLhyphen"/>ments and sentences that shall be giuen and declared by the said Prior &amp; Con<g ref="char:EOLhyphen"/>suls, may be speedily and without delay ended in our sayd Court, We haue ordained, and do ordaine, inioyne, and commaund, all our louing and trustie Presidents, and Councellours, (hol<g ref="char:EOLhyphen"/>ding our sayd Court of Parliament) to declare to the said Merchants, without delay, one day in euery weeke, such as
+<pb facs="tcp:178654:11"/>they shall thinke conuenient; to heare. determine, and dispatch the sayd ap<g ref="char:EOLhyphen"/>pellations, by order of Role, for that purpose ordained. And in regard of the proces by writing, there shal be one other Role made apart, to the end that the said appeales may be ended in the same day, to auoid the prolonging of suites, to the ruine and consuming of the suters. And to the end that the said place of meeting of the Merchants, twise a day, may be quiet and without disturbance; Our pleasure is, and We do straightly command, that none of our Serieants and Officers, presume to enter into the same place, nor to make any arrest (for any cause) of any person whatsoeuer, during the time of those two accustomed houres of meeting. And if such arrest should be made du<g ref="char:EOLhyphen"/>ring the sayd houres; We haue decla<g ref="char:EOLhyphen"/>red heretofore, and do declare at this present, the same to be voyd and insuf<g ref="char:EOLhyphen"/>ficient: charging all our Iudges, not to haue any regard thereunto.</p>
+            <p>And as We are informed, that the Trade of <hi>Assurances,</hi> is of late greatly
+<pb facs="tcp:178654:12"/>aduanced by the Merchants of the said Citie of <hi>Roane,</hi> (a work so honourable) that it doth euen beautifie and greatly aduance the Trade, and Commerce of the sayde Citie. We (to the ende those sayd policies of the sayd <hi>Assuran<g ref="char:EOLhyphen"/>ces,</hi> and all other writings thereunto belonging, may receiue full vigor) haue permitted, and do permit, that all Merchants frequenting the sayd place, (both now and hereafter) to come to assemble themselues at all times, when it shall be needfull; to chuse and nomi<g ref="char:EOLhyphen"/>nate according to the most voyces, one Merchant amongst them (such a one as they shall thinke meete, being a man trustie and expert in the knowledge of the Trade of <hi>Assurances</hi>) who shal make and register the sayd policies, where<g ref="char:EOLhyphen"/>vnto the Assurers shall set their hands at all times hereafter in the sayd place and liberties of <hi>Roane,</hi> when as it shall please the Merchants: whose office shal likewise be, to draw foorth accounts of such arrerages as shal happen, (being thereunto called) receiuing for his paines, and time spent about the busi<g ref="char:EOLhyphen"/>nesse
+<pb facs="tcp:178654:12"/>of the same <hi>Assurances,</hi> according as it shall be thought meete by the sayd Merchants: And keepe a perfect &amp; true Register of the same <hi>Assurances,</hi> To the which Register and Coppies thereof, and all other Acts and writings by him made, concerning matter of <hi>Assurances,</hi> and by him assigned; We will and or<g ref="char:EOLhyphen"/>daine, that all maner of credite shall be thereunto giuen, before all Iudges, and others to whom it shall appertaine, without that any other person or per<g ref="char:EOLhyphen"/>sons, shall haue to do, or meddle in the sayd busines of <hi>Assurances,</hi> or any thing thereunto belonging; vnlesse he be be<g ref="char:EOLhyphen"/>fore chosen and admitted thereunto, by the sayd Prior and Consuls, and by the sayd Merchants as beforesaid.</p>
+            <p>And We do commaund, and giue in charge, to al persons holding our courts of <hi>Parliament, Great Counsels, Admirals, Viceadmirals, Stewards,</hi> and their <hi>Depu<g ref="char:EOLhyphen"/>ties,</hi> and to all other Iudges and Offi<g ref="char:EOLhyphen"/>cers whom it shall concerne, that you do cause to be read, proclaimed and re<g ref="char:EOLhyphen"/>gistred, this our present Will, Declara<g ref="char:EOLhyphen"/>tion, Permission, and Ordinance; and
+<pb facs="tcp:178654:13"/>the same to be obserued and kept by all them accordingly. That the Merchants may vse and inioy the force and benefit therof, plainly and peaceably, without any contradiction.</p>
+            <p>Moreouer, We do charge and com<g ref="char:EOLhyphen"/>mand our <hi>Atturney Generall,</hi> that he do withall diligence, cause all these things to be plainly &amp; truly executed, and that he do certifie vs of his diligēce so done: For such is our pleasure, for that of our meere motion &amp; power, We will haue it done, notwithstanding any Ordi<g ref="char:EOLhyphen"/>nance, Customes, Statutes, Priuiledges, Commaundements, Defences, or Let<g ref="char:EOLhyphen"/>ters to the contrary, the which in this cause, without doing preiudice to other causes, We haue made voyde, and do hereby make voyd. And for that men shall haue occasion to vse this our Graunt in diuers places; Our pleasure is, that credite shall be giuen, to all such Coppies, as shall be made by any of our louing and trustie Notaries, and Secre<g ref="char:EOLhyphen"/>taries, or vnder our Royall Seale, in as amplemaner, as to the originall.</p>
+            <p>And to this effect, We do giue you
+<pb facs="tcp:178654:13"/>full power, Authoritie, Commission, and speciall charge: Commanding by these presents, all our Iustices, Officers, and Subiects, to obey you in this case. And to the end this may remaine esta<g ref="char:EOLhyphen"/>blished for euer, (Our owne right in all other causes reserued,) We haue here<g ref="char:EOLhyphen"/>vnto caused our Seale to be put. Giuen at <hi>Paris,</hi> in the Moneth of March, and in the yeare of our Lord, 1556. And the tenth yeare of our Reigne, and sig<g ref="char:EOLhyphen"/>ned by the King, then in councell, and sealed with greene Waxe, vpon a pen<g ref="char:EOLhyphen"/>dant of red and greene silke lace.</p>
+         </div>
+         <div type="authors_statement">
+            <pb facs="tcp:178654:14"/>
+            <head>THE AVTHOR, <hi>WI<g ref="char:EOLhyphen"/>sheth to all</hi> Merchants, <hi>health.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Orthy Merchants, the King our soueraigne Lorde (in whose bo<g ref="char:EOLhyphen"/>some, Iustice and Right, liue in safe protection) knowing what Priuiledges, not onely He, and his Predecessors, but also all the Romane Emperours, haue graunted vnto you, in regard of the Trade of Merchandize, and the order of Exchange, both of gold and siluer: hauing made you thereof absolute Iudges, for the ease of all other Iudges, who in such cases can doe nothing, without calling you to be Arbitrators. For the better administration therfore, of Iustice to his subiects, in all such cau<g ref="char:EOLhyphen"/>ses which in times past were reserued to your vnderstandings: And for that
+<pb facs="tcp:178654:14"/>you may perceiue your authoritie and iurisdiction, not to be a new thing, or of late deuised, (but first founded by the Greekes, from whom the Ro<g ref="char:EOLhyphen"/>maines haue taken their groundes, I haue thought good, for your more ease, brieflie to comprehend and to set downe in writing (although not all) yet at the least a good part of your power and authoritie; And to shew you in a manner the Kings pleasure, how you may proceed and keepe your auncient Priuiledges, and that with<g ref="char:EOLhyphen"/>out doubting of your authoritie, you may speedily proceed, to iudge of all such differences, as doe appertaine to your knowledge. Desiring you, to take this in good part, &amp; to defend the same against all those, that will enuie, not on<g ref="char:EOLhyphen"/>ly me; but your selues.</p>
+         </div>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:178654:15"/>
+               <head>A reason wherefore this auncient Au<g ref="char:EOLhyphen"/>thoritie was granted to Merchants.</head>
+               <p>THERE be two things that cause a Common-wealth to flourish, and are maine supporters and pillars to the same; The Trafficke and vse of Mer<g ref="char:EOLhyphen"/>chandizing, is the first: For by it, the supersluity of those Cōmodities, which in some one Countrey, grow ranke and abundaunt, are transported ouer into others; In whose stead, the needfull Commodities of those other King<g ref="char:EOLhyphen"/>domes are returned thither. For which cause the Emperour, commanded all his Iudges, and gouernours of Prouin<g ref="char:EOLhyphen"/>ces, to hold the same in great estima<g ref="char:EOLhyphen"/>tion. The second, is the Order and custome of Exchange, whereby any mans need may be supplied in all places wheresoeuer, onely by a bill of Ex<g ref="char:EOLhyphen"/>change (of a Merchants of credite) without endangering either his goods or person: A thing most profitable as reporteth <hi>Papinian:</hi> So that the aunci<g ref="char:EOLhyphen"/>ent Law-makers (perceiuing that Mer<g ref="char:EOLhyphen"/>chants
+<pb facs="tcp:178654:15"/>were the first setters vp and in<g ref="char:EOLhyphen"/>uentors of Comerce, for buying and selling, together with the order and vse of Exchange: and that they had therof the best &amp; soundest vnderstanding, did wisely institute them, onely to bee the principall Iudges thereof: whereby it appeareth to bee no newe authoritie, whose beginning grew vp, euen with the best gouerned Common-wealths: As may bee proued by infinite exam<g ref="char:EOLhyphen"/>ples both of Greekes and Latines.</p>
+            </div>
+            <div type="part">
+               <head>The number of Officers, appertaining to the said Iurisdiction and of their power.</head>
+               <div n="1" type="article">
+                  <head>ARTICLE. 1.</head>
+                  <p>THere is one Prior, and two Con<g ref="char:EOLhyphen"/>suls, carying those Titles, accor<g ref="char:EOLhyphen"/>ding to the Kings pleasure, being re<g ref="char:EOLhyphen"/>nued euery yeare, about Twelfe-tide, at which time all the Merchants (as wel Burgesses as Strangers) are assembled in one place; where after they haue gi<g ref="char:EOLhyphen"/>uen prayses to God, choyse is made of
+<pb facs="tcp:178654:16"/>the sayde Prior and Consuls, by most voyces; In which election, euery Mer<g ref="char:EOLhyphen"/>chant hath their voyces, according to the number of Magistrates whom they are to choose: the manner of gi<g ref="char:EOLhyphen"/>uing their voyces being done seretly, either in the fauour or refusall, of those that are nominated. As first for the Prior, then for the first Consull, and next for the second Consull: And so giue they the same, to the Notarie of their Registers. And whosoeuer hath the most voyces in the election of the Prior, is Prior: and so consequently for the Consuls: Following orderly, the choise of the first, and next after the se<g ref="char:EOLhyphen"/>cond: being a thing most commenda<g ref="char:EOLhyphen"/>ble and requisite, for the auoyding of all affection and corruption. The Pre<g ref="char:EOLhyphen"/>sident whereof, being taken from the Greekes, who by the same course did make choice of their Magistrates and Gouernours.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>ARTIC. 2.</head>
+                  <p>Item, the Prior and Consulls new<g ref="char:EOLhyphen"/>ly chosen, doe take their oath of the
+<pb facs="tcp:178654:16"/>old ones, and immediatly being set in the manner and forme of the for<g ref="char:EOLhyphen"/>mer; they take the same oath, in pre<g ref="char:EOLhyphen"/>sents of all the Merchants there assem<g ref="char:EOLhyphen"/>bled; promising duely and faithfully to execute Iustice, without any regard, ei<g ref="char:EOLhyphen"/>ther to poore or rich, as other Iudges doe, when they are newly established in their gonernment.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 3.</head>
+                  <p>Item, the sayde Prior and Consuls, present, or to be chosen hereafter, may call vnto them, twentie Merchants, or a greater number to assist thē, as Coun<g ref="char:EOLhyphen"/>sellours, for the vnderstanding and de<g ref="char:EOLhyphen"/>ciding of all such differences, as apper<g ref="char:EOLhyphen"/>taine to their knowledge: and to vrge the saide Merchants thereunto, vpon their oathes: in such sort, as other Iudges doe (with such Counsellours as they make choise of, to assist them) in like case; in regard of their Authoritie.</p>
+               </div>
+               <div n="4" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 4.</head>
+                  <p>Item, the sayd Priors and Consuls,
+<pb facs="tcp:178654:17"/>may constitute one Counsellour, and one Atturney, to procure the good and maintenance of the sayd Common place, &amp; to defend the same in all right<g ref="char:EOLhyphen"/>full causes, and to conduct (as Iudges) both the suites, businesses, profits, and preferments of the same place, as well before the said Prior &amp; Consuls, as be<g ref="char:EOLhyphen"/>fore all other Iudges wheresoeuer.</p>
+               </div>
+               <div n="5" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 5.</head>
+                  <p>Item, the sayd Counsellour and At<g ref="char:EOLhyphen"/>turney, shalbe chosen by the most voi<g ref="char:EOLhyphen"/>ces of all the Merchants, assembled to<g ref="char:EOLhyphen"/>gether for that purpose: And not at the will and pleasure of the Prior and Con<g ref="char:EOLhyphen"/>suls: and are to be changed euery yeare, according to the wils and discretions of the same Merchāts of the same place; hauing taken a generall deliberation thereof, according to the tenure of the said Letters Patents of the Moneth of May, the Kings pleasure being well vnderstood.</p>
+               </div>
+               <div n="6" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 6.</head>
+                  <p>Item, the said Prior and Consuls, shal take the oaths of the sayd Counsell our
+<pb facs="tcp:178654:17"/>and Atturney, that they shall procure as well the good and profit of the same place; as the credite &amp; increase of their Authoritie, and the same shall defend against all men: And they shall neuer giue counsell to the contrary, by any meanes whatsoeuer.</p>
+               </div>
+               <div n="7" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 7.</head>
+                  <p>Item, the sayd Prior and Consuls, may call to their assistance, the sayde Counsellour and Atturney, that with them &amp; the said other Merchants, they may iudge and decide all suites and differences, appertaining to their know<g ref="char:EOLhyphen"/>ledge.</p>
+               </div>
+               <div n="8" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 8.</head>
+                  <p>Item, the sayd Prior and Consuls, of their owne authoritie, may appoint such a Register, as they shall thinke meete, to keepe their Registers, who shalbe changeable euery yere, as are the Prior and Consuls; The which Regi<g ref="char:EOLhyphen"/>ster shall subscribe to all Acts, that shall passe during their gouernment, and by him done, vnder the title of a Register, As is contained in the Letters Patents, of the Moneth of May.</p>
+               </div>
+               <div n="9" type="article">
+                  <pb facs="tcp:178654:18"/>
+                  <head>
+                     <hi>ARTIC.</hi> 9.</head>
+                  <p>Item, all Messengers, and such like Officers of the Kingdome, are constrai<g ref="char:EOLhyphen"/>ned by the King, to obey the said Prior and Consuls, and duely and amply to execute, all and euery their Comman<g ref="char:EOLhyphen"/>dements, Commissions, Sentences, ei<g ref="char:EOLhyphen"/>ther definitiue or otherwise; And all the iudiciall Acts and Decrees, of the said Prior and Consuls, in euery place of the Kingdome, like as of the Iudges in all other Gouernements, whereas the said Messengers and like Officers, doe exercise their Offices: and vnder the same penalties to bee layd vpon them without default, like as they may be constrained to obey other Iudges, as is contained in the sayd Letters Pa<g ref="char:EOLhyphen"/>tents of the Moneth of May.</p>
+               </div>
+               <div n="10" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 10.</head>
+                  <p>Item, all Iaylors and keepers of Prisons, are subiect to receiue and keepe the prisoners committed vnto them,
+<pb facs="tcp:178654:18"/>by the said Prior and Consulls, as they doe the prisoners of all the other Iud<g ref="char:EOLhyphen"/>ges, and vnder the same penalties and bonds, if any escape happen, euen like as they are subiect to keepe the priso<g ref="char:EOLhyphen"/>ners by authoritie of the other Iudges of the kingdome, as is contained in the said Letters Patents of the moneth of May.</p>
+               </div>
+               <div n="11" type="article">
+                  <head>ARTIC. 11.</head>
+                  <p>Item, the Kings pleasure is, that all the said Messengers and such like Offi<g ref="char:EOLhyphen"/>cers, And all Iaylors and Keepers of prisons within all his Dominions, shall obey the said Prior and Consuls, with<g ref="char:EOLhyphen"/>out demanding leaue or other Licence of other Iudges, within whose gouern<g ref="char:EOLhyphen"/>ment they do dwell, and exercise the charge of their Office, according as the late King <hi>Francis</hi> (of noble memory) hath graunted to the Conseruator of the Fayres of <hi>Lyon,</hi> in the moneth of February, in the yeare of our Lorde GOD, 1535. As in the lyke
+<pb facs="tcp:178654:19"/>authoritie, the Prior and Consulls of the Bourse of <hi>Thoulouze</hi> haue bin esta<g ref="char:EOLhyphen"/>blished, by this King present, As is con<g ref="char:EOLhyphen"/>tained in the Letters Patents hereafter specified.</p>
+               </div>
+               <div n="12" type="article">
+                  <head>ARTIC. 12.</head>
+                  <p>Item, the Kings pleasure is, and he doth permit &amp; suffer the said Prior and Consuls, to make choise, &amp; to appoint, within all the Townes, Villages, and other places, of the Prouinces of <hi>Lan<g ref="char:EOLhyphen"/>guedocke</hi> and <hi>Lorogois,</hi> certaine good, faithfull, and expert men, to search all the merchandizes, which is growing and vsed in the said Prouinces, to see if there be any abuse, fraude, falcificati<g ref="char:EOLhyphen"/>on, or other deceit in any of the saide merchandizes: And according to the report of the said Searchers, to punish the offenders, according to their de<g ref="char:EOLhyphen"/>serts, and power of their authoritie, for the benefit of the said merchandizes, as is contained in the said Letters Pa<g ref="char:EOLhyphen"/>tents of the moneth of May.</p>
+               </div>
+               <div n="13" type="article">
+                  <pb facs="tcp:178654:19"/>
+                  <head>
+                     <hi>ARTIC.</hi> 13.</head>
+                  <p>Item, the saide Prior and Consulls, may place, one or more Visitors or Searchers for the abousesaid causes, in all places wheras they shall think meet, for the true maintenance of all mer<g ref="char:EOLhyphen"/>chandizes: And the said Searchers so placed, they shall take their oathes in all things requisite, to discharge their Offices faithfully, and truly, and accor<g ref="char:EOLhyphen"/>ding to a good conscience: And to search the said merchandizes, whereof, and by whom they shal be required ac<g ref="char:EOLhyphen"/>cordingly, for the respects conteined in the former Article: And the charges that shall arise, to be laide vpon the of<g ref="char:EOLhyphen"/>fenders, according to the report of the said Searchers, to whom the said Prior and Consulls shall set downe a reaso<g ref="char:EOLhyphen"/>nable Salary, or reward, to be present<g ref="char:EOLhyphen"/>ly paid vnto them without any circum<g ref="char:EOLhyphen"/>stance; to the end not to feare the par<g ref="char:EOLhyphen"/>ties offending, by colour of suire, as the Kings pleasure is, in the saide Letters Patents of the moneth of May.</p>
+               </div>
+               <div n="14" type="article">
+                  <pb facs="tcp:178654:20"/>
+                  <head>ARTIC. 14.</head>
+                  <p>Item, the said Prior and Consulls, may place the said Searchers to take view of all Woods, Saffrons, Woolls, and all other merchandize that shall be growing and vsed in the saide Prouin<g ref="char:EOLhyphen"/>ces of <hi>Languedocke</hi> and <hi>Lorogois,</hi> As is contained in the said Letters Patents of the moneth of May.</p>
+               </div>
+               <div n="15" type="article">
+                  <head>ARTIC. 15.</head>
+                  <p>Item, the said Visitors or Searchers, being chosen as before is said, shall be subiect vpon any sommons or request made vnto thē, by any Merchant that pretendeth any merchandizes to be falsified, or any other deceit to be foūd in it, that they should execute their Of<g ref="char:EOLhyphen"/>fices, be it either in the Kings name, or in the name of the said Prior and Con<g ref="char:EOLhyphen"/>sulls, without other expresse comman<g ref="char:EOLhyphen"/>dement from the said Prior and Con<g ref="char:EOLhyphen"/>suls: And shall duly and truly search the merchandize whereof they shall be re<g ref="char:EOLhyphen"/>quired, vpon the like paines and for<g ref="char:EOLhyphen"/>feitures,
+<pb facs="tcp:178654:20"/>as should haue bene laide vp<g ref="char:EOLhyphen"/>on him, who by their report, should haue bene found culpable, to the ende that the parties offending, should not be made afraide by Letters, nor no o<g ref="char:EOLhyphen"/>ther meanes vsed in the other Iurisdic<g ref="char:EOLhyphen"/>tions, for the gaine &amp; profit of the Iud<g ref="char:EOLhyphen"/>ges and their Ministers, Considering that the said Searchers shall be chosen and constituted, as before is said.</p>
+               </div>
+               <div n="16" type="article">
+                  <head>ARTIC. 16.</head>
+                  <p>Item, the said Searchers may (in the Kings name, and in the name of the saide Prior and Consulls) commaund euery man whom it shall concerne, to bring foorth all their merchandizes, which they shall be required to search, that they may truly discharge their Of<g ref="char:EOLhyphen"/>fice: And if any man shall in such case refuse to bring forth his goods, They shall Sommon them (so refusing) to appeare before the said Prior &amp; Con<g ref="char:EOLhyphen"/>sulls, that they may take order therein according to reason.</p>
+                  <pb facs="tcp:178654:21"/>
+               </div>
+               <div n="17" type="article">
+                  <head>ARTIC. 17.</head>
+                  <p>Item, the saide Prior and Consulls, may punish such as shal cause any mer<g ref="char:EOLhyphen"/>chandizes to be searched, if by the Vi<g ref="char:EOLhyphen"/>sitors, the same merchandizes shall be found good and lawfull: as contrari<g ref="char:EOLhyphen"/>wise, they may punish the Refusers, or them that haue committed any fault in their merchandizes, in such penalties as the case shall require, and as their au<g ref="char:EOLhyphen"/>thoritie may vse.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of the Forfeitures and punishments, and what seale the said Prior and Consulls may vse.</head>
+               <div n="1" type="article">
+                  <head>ARTIC. I.</head>
+                  <p>Item, the said Prior and Consuls, to entertaine, conserue, and defend their authoritie, may for euery offence, vse only the penaltie &amp; forfeitures of mo<g ref="char:EOLhyphen"/>ney, and shall apply the same, the one halfe for the King, the other half to the partie, according to his desert: As is contained in the saide Letters Patents of the moneth of May.</p>
+               </div>
+               <div n="2" type="article">
+                  <pb facs="tcp:178654:21"/>
+                  <head>ARTIC. 2.</head>
+                  <p>Item, the saide Prior and Consulls may without dispearsing of the goods, proceed by sequestration, arrest &amp; im<g ref="char:EOLhyphen"/>prisonment of the persons, who by them shall be condemned, vntill their sentence be fully executed, according to such forme and order, as the Con<g ref="char:EOLhyphen"/>seruator of the Fayres of <hi>Lyon, Brie,</hi> and <hi>Champaigne,</hi> doe vsually obserue, as is conteined in the saide Letters Patents, of the moneth of February hereafter expressed.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 3.</head>
+                  <p>Item, to giue force and authoritie to all the Iudiciall Acts (being done by the authoritie of the said Prior &amp; Con<g ref="char:EOLhyphen"/>sulls,) the same shall be sealed with the Armes and Cashet of the said Prior, or of one of the said Consulls, who hath iudged the saide Acts, And the same shall be subscribed by their Notary, e<g ref="char:EOLhyphen"/>uen as it is more amply expressed, in the said Letters Patents of the moneth of May, being thereby prohibited, to vse any of the Kings Seales, according to the tenour of the said Letters.</p>
+               </div>
+               <div n="4" type="article">
+                  <pb facs="tcp:178654:22"/>
+                  <head>ARTIC. 4.</head>
+                  <p>Item, the saide Prior and Consulls, hauing knowledge of any fraude, or other deceits, to be vsed by any man, they may cause the body of the offen<g ref="char:EOLhyphen"/>der to be committed, &amp; proceed with the offender, so far as his offence shall cōcern trade of merchandize, Change, or Rechange, although the King be in<g ref="char:EOLhyphen"/>terested therein; Prouided that they proceed no further, then concerneth matters of merchandizes, Change, and Rechange: And for his other punish<g ref="char:EOLhyphen"/>ment for other vices, they shall deliuer the persons to the Iudges, to whome doth appertaine the knowledge there<g ref="char:EOLhyphen"/>of, for the better punishing of the of<g ref="char:EOLhyphen"/>fender, and the correcting of all other vices, and not otherwise.</p>
+               </div>
+               <div n="5" type="article">
+                  <head>ARTIC. 5.</head>
+                  <p>Item, all Iudgements of the saide Prior and Consulls, may be executed throughout all the Kings Dominions, be it by Attachment of goods and sale thereof, arrest, and imprisonment of the persons condemned, as also by pe<g ref="char:EOLhyphen"/>nalties
+<pb facs="tcp:178654:22"/>and forfeitures of mony, accor<g ref="char:EOLhyphen"/>ding to the cause of the offence, &amp; the authoritie of the said Prior and Con<g ref="char:EOLhyphen"/>sulls, As is contained in the said Letters Patents of the moneth of May.</p>
+               </div>
+               <div n="6" type="article">
+                  <head>ARTIC. 6.</head>
+                  <p>Item, all Iudgments, Sentences, Or<g ref="char:EOLhyphen"/>dinances, Commissions, Decrees and Commaundements, as well desinitiue as otherwise, being done and iudged by the said Prior and Consulls, for all matters perteining to their knowledge are of effect and force, through all the Kings Dominions: As is conteined in the said Letters Patents in the moneth of May: and others of the moneth of February, hereafter specified, accor<g ref="char:EOLhyphen"/>ding to the order, as well of the Con<g ref="char:EOLhyphen"/>seruator of <hi>Lyon,</hi> as of other Iudges.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Who are subiect to the authoritie of the said Prior and Consulls, and who are exempt.</head>
+               <div n="1" type="article">
+                  <head>ARTIC. 1.</head>
+                  <p>Item, all noble personages &amp; others,
+<pb facs="tcp:178654:23"/>all spirituall men, and lay-men, of age, or vnder age, or their deputies, vsing and exercising the Trade of merchan<g ref="char:EOLhyphen"/>dize or exchange, shall in that respect be subiect to the power and authoritie of the saide Prior and Consulls, with<g ref="char:EOLhyphen"/>out any maner of exception, as is con<g ref="char:EOLhyphen"/>tained in the saide Letters Patents, of the moneth of May, &amp; the Restrictions therof, cōtained in the Letters Patents, Giuen at <hi>Fountain Bleau,</hi> the seuenth of December, in the yeare 1551: And published in the Parliament at <hi>Thou<g ref="char:EOLhyphen"/>louze,</hi> the ninth of February in the same yeare.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>ARTIC. 2.</head>
+                  <p>Item, all Seruants, Factors, Dealers, Intermedlers, and others, of what qua<g ref="char:EOLhyphen"/>litie soeuer they be, being sent by the Merchants of the saide <hi>Thoulouze,</hi> into any place, Countries, Dominions, or Prouinces, beeing either within or without the Kings Dominions, for the Trade of merchandizes or exchanges, are subiect to the authoritie of the sayd Prior and Consulls, onely in the re<g ref="char:EOLhyphen"/>spect of the Trade of merchandize and
+<pb facs="tcp:178654:23"/>exchange. And all other Iudges are forbidden cōcerning such debates and differences, growing between the said Merchants, and the parties aboue spe<g ref="char:EOLhyphen"/>cified in this Article, onely to auoyde the fraudes, abuses, and ill demeaners of the said seruants and dealers, and for other good reasons, conteined in the saide Letters Patents of the moneth of May.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>ARTIC. 3.</head>
+                  <p>Item, all the heires of such men, as are subiect to the said authoritie, of the said Prior &amp; Consuls, and by them shal be arrested &amp; imprisoned, are exemp<g ref="char:EOLhyphen"/>ted: And the saide Prior and Con<g ref="char:EOLhyphen"/>sulls shall not haue to do, to arrest the bodies of the said heires, but the same suite shall proceed before the Lordes of the Court of Parliament of the said <hi>Thoulouze,</hi> according to the effect of the Letters of the eight day of March, in the yeare 1551. grounded aswel by common reason of Right, as by the Kings Ordinances in the <hi>Rewbricke</hi> of Letters Obligatories.</p>
+               </div>
+               <div n="4" type="article">
+                  <pb facs="tcp:178654:24"/>
+                  <head>ARTIC. 4.</head>
+                  <p>Item, all Noble personages, Lawiers and Officers, are exempt from the said authoritie, although they haue bought Cloath of what kind soeuer, borrowed mony or other merchandizes for their necessary vses, according to their estate and callings: As is conteined in the re<g ref="char:EOLhyphen"/>straints of the saide Letters Patents of the moneth of May.</p>
+               </div>
+               <div n="5" type="article">
+                  <head>ARTIC. 5.</head>
+                  <p>Item, all Opposers against the Sen<g ref="char:EOLhyphen"/>tences &amp; Decrees of the said Prior and Consulls, are exempt from the said au<g ref="char:EOLhyphen"/>thoritie, and they cannot thereby be constrained to bring their causes of op<g ref="char:EOLhyphen"/>position before the said Prior &amp; Con<g ref="char:EOLhyphen"/>suls: But they shall return the same vn<g ref="char:EOLhyphen"/>to the Iudges, to whom the knowledge thereof doth appertaine: who hauing heard the same, and giuen sentence thereof, and the execution being ac<g ref="char:EOLhyphen"/>complished, both for the right of the King, and the performance of Iustice, or otherwise ordeined by the Iudge to
+<pb facs="tcp:178654:24"/>whom the knowledge of the said op<g ref="char:EOLhyphen"/>positions doth appertaine: As is con<g ref="char:EOLhyphen"/>teined in the Restraints of the said Let<g ref="char:EOLhyphen"/>ters Patents of the moneth of May.</p>
+               </div>
+               <div n="6" type="article">
+                  <head>ARTIC. 6.</head>
+                  <p>Item, all Appeales of the Sentences and Ordinances of the said Prior and Consulls, shall be brought immediate<g ref="char:EOLhyphen"/>ly into the Court of Parliament of the said <hi>Thoulouze:</hi> And none other Iudge can reform the Iudgements of the said Prior and Consulls: As is conteined in the Letters of the moneth of Iuly, 1549 And of the moneth of May, 1551.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Three Additions to resolue two difficulties.</head>
+               <div n="1" type="article">
+                  <head>ARTIC. 1.</head>
+                  <p>Item, all that be exempted from the Iurisdiction of the saide Prior &amp; Con<g ref="char:EOLhyphen"/>sulls, cannot by any meanes submit thēselues therevnto, to take any benefit
+<pb facs="tcp:178654:25"/>thereof, vnlesse it bee by the Kings ex<g ref="char:EOLhyphen"/>presse Commandement, or consent of the other Iudges, in speciall fauour and regard of the causes of the said exempti<g ref="char:EOLhyphen"/>ons, wherein the sayd Prior &amp; Consuls must be wise and diligent, to auoyd the offence of rash and fearefull Iudges.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>ARTIC. 2.</head>
+                  <p>Item, sauing &amp; excepting the heires of such as be dead, that were in their life time, subiect to the saide Authoritie, which heires (the debts owing by their Predecessors being proued, and they submitting themselues againe by new Obligations to the rigor of the sayde Authoritie) may bee constrained by arrest, and imprisonment of their per<g ref="char:EOLhyphen"/>sons: Renouncing the Priuiledges of the same Articles, made only in the fa<g ref="char:EOLhyphen"/>uour of the said heires; As by the sayde Article before alleaged doth appeare.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>ARTIC. 3.</head>
+                  <p>Item, excepting the heires &amp; Succes<g ref="char:EOLhyphen"/>sors
+<pb facs="tcp:178654:25"/>of Merchants, frequēting the same Bourse, who, of what estate, profession, or qualitie soeuer they be, either Noble or head Officers of the sayd Citie of <hi>Thoulouze,</hi> or of any other conditiō, not vsing nor professing the Trade of Mer<g ref="char:EOLhyphen"/>chandizing or Exchange, shall be con<g ref="char:EOLhyphen"/>uented, adiourned, and pursued by all due wayes, &amp; reasonable courses, euen as their Predecessors Merchants should haue beene, if they had liued, before the said Priorand Consuls, for all things concerning the Trade of Merchandize, and matters of Exchange, done and v<g ref="char:EOLhyphen"/>sed by their sayde Predecessors Mer<g ref="char:EOLhyphen"/>chants, without pretending or allea<g ref="char:EOLhyphen"/>ging any disabilitie or insufficiencie, by reason of their Estate. Prouided al<g ref="char:EOLhyphen"/>wayes, that the suing of them shall bee done, without arresting or imprisoning of their persons: And the sayd heires (of what condition soeuer they bee) may sue, or cause to bee sued, all other Merchants for the causes and reasons before rehearsed, before the sayd Prior and Consuls, and no where else: As is contained in the said Letters Patents of
+<pb facs="tcp:178654:26"/>the Moneth of Februarie, and as in all common right is obserued.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>What matters are subiect to the sayd Autho<g ref="char:EOLhyphen"/>ritie, and what matters are not.</head>
+               <div n="1" type="article">
+                  <head>ARTICLE. 1.</head>
+                  <p>Item all debates and differences, by reason of trafficke, and dealing in Mer<g ref="char:EOLhyphen"/>chandize, or cause of Exchange, be it by Obligation, Bill of debt, Receites, Blankes signed, Letters of Exchange and Rechange, Suertiships, Partner<g ref="char:EOLhyphen"/>ships, (generall or particular) nominati<g ref="char:EOLhyphen"/>ons of the sufficiencie of men, or pla<g ref="char:EOLhyphen"/>ces where they dwell, Debts, Assuran<g ref="char:EOLhyphen"/>ces, Accounts, or Auditings of accoūts, Transpors, Bargaines, and all other Acts and things, with their circumstan<g ref="char:EOLhyphen"/>ces, and what els belonging vnto them, do appertaine to the knowledge of the sayd Prior &amp; Consuls, as is contained in the said Letters Patents, of the Mo<g ref="char:EOLhyphen"/>neth of May.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 2.</head>
+                  <p>Item, the imposition or Assessement of such necessary Summes of monies,
+<pb facs="tcp:178654:26"/>as shalbe needfull for the building, buy<g ref="char:EOLhyphen"/>ing, or hiring of a place, fit for the exer<g ref="char:EOLhyphen"/>cises of the said Iurisdiction to be vsed in, and for the profit of the sayd cōmon Bourse, &amp; of all things belonging there<g ref="char:EOLhyphen"/>vnto: As also for the entertayning (in good estate and due fourme) for the ease and benefite of the transportation of all Merchandize, alongst the Riuers of <hi>Garona,</hi> and <hi>Geronda,</hi> from the sayde Citie of <hi>Thoulonze,</hi> to the Citie of <hi>Bur<g ref="char:EOLhyphen"/>deaux,</hi> and of all other Riuers within the Countries of <hi>Languedocke,</hi> and <hi>Lorogois.</hi> Also the taxation and assessement of euery Merchant (as well Inhabitant, as Stranger vsing the Trade of the saide <hi>Thoulouze</hi>) according to their abilities and dealings, doeth appertaine to the said Prior and Consuls; as is contained in the said Letters Patents of the month of May.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 3.</head>
+                  <p>Item, the said Prior &amp; Consuls, may impose penalties of money, vpon all such Merchants as shall obstinately re<g ref="char:EOLhyphen"/>fuse to pay such sums of money as are taxed vpon thē for the causes abouesaid
+<pb facs="tcp:178654:27"/>by the said Prior and Consuls, and their Councell: And shall constraine them therevnto, by all due wayes, &amp; reasona<g ref="char:EOLhyphen"/>ble meanes, &amp; also by imprisonment of their persons, vntill such time as they shall make payment of the monies im<g ref="char:EOLhyphen"/>posed vpon them, as aforesaid. And the penalties that shal grow thereupon, shall be disposed of, by the Prior and Consuls, the one halfe for the King, the other halfe for the benefite of the sayde Bourse; As is contained in the saide Letters Patents of the Moneth of May.</p>
+               </div>
+               <div n="4" type="article">
+                  <head>ARTIC. 4.</head>
+                  <p>Item, there doth appertaine to the said iurisdiction of the sayd Prior and Consuls, the knowledge of rendring of accounts, payments of the whole, or of part, and all other things concerning the Trade of Marchandize, and order of Exchange: As is contained in the said Letters Patents, of the Moneth of May.</p>
+               </div>
+               <div n="5" type="article">
+                  <head>ARTIC. 5.</head>
+                  <p>Item, the punishing of all fraudes, abuses, deceites, falsifications, and all
+<pb facs="tcp:178654:27"/>other ill dealings in Merchandizes, bought and vsed in the saide Countries of <hi>Languedocke</hi> and <hi>Lorogois:</hi> And all abuses committed in the course of Ex<g ref="char:EOLhyphen"/>changes: All this, in all reason, doth ap<g ref="char:EOLhyphen"/>pertaine to the said Prior and Consuls, as is contained in the said Letters.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Matters wherein the Prior or Consuls, are forbidden to deale withall.</head>
+               <div n="1" type="article">
+                  <head>ARTICLE. 1.</head>
+                  <p>Item, all matters criminall or offen<g ref="char:EOLhyphen"/>siue, in regard whereof, the Kings At<g ref="char:EOLhyphen"/>turney is a partie, and thereby hath interest therein, as salsifying of Ob<g ref="char:EOLhyphen"/>ligations, and Billes of debt, or other writings, matters of reproch, or discre<g ref="char:EOLhyphen"/>dite of persons, thefts, and other euill and vnlawfull behauiours, done and committed, aswell by the sayde Mer<g ref="char:EOLhyphen"/>chants, as by their Seruants, Factors, and Intermedlers in causes of Merchan<g ref="char:EOLhyphen"/>dize. As also all others, not exercising the Trade of Merchandize, are forbid<g ref="char:EOLhyphen"/>den to be delt withall, by the said Prior and Consuls, As is contained in the re<g ref="char:EOLhyphen"/>straints
+<pb facs="tcp:178654:28"/>of the saide Letters Patents, of the moneth of May, hereafter specified.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>ARTIC. 2.</head>
+                  <p>Item, the said Prior and Consuls, are not to deale with the cōtracts of Vsury, either fained, or otherwise vnlawfull, whereby the offender, by all reasona<g ref="char:EOLhyphen"/>ble iudgement deserueth punishment: As is contained in the said restraints.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 3.</head>
+                  <p>Item, all Ciuill causes, between men, of what qualitie soeuer, besides those which concerne Trade of Merchan<g ref="char:EOLhyphen"/>dize, or matter of Exchange, bee it by gift of the dead, by Will, or in aduance<g ref="char:EOLhyphen"/>ment of Marriage, enterchanging of goods by consent, &amp; all other such like Contracts: be all exempted from the dealing of the said Prior and Consuls: As is contained in the said restraints.</p>
+               </div>
+               <div n="4" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 4.</head>
+                  <p>Item, the said Prior and Consuls, are not to deale with any opposition, made vpon the execution of any of their Sen<g ref="char:EOLhyphen"/>tences, or ordināces; as is before expres<g ref="char:EOLhyphen"/>sed, and conteined in the said restraints.</p>
+               </div>
+               <div n="5" type="article">
+                  <pb facs="tcp:178654:28"/>
+                  <head>ARTIC. 5.</head>
+                  <p>Item, the Authoritie of the sayd Pri<g ref="char:EOLhyphen"/>or &amp; Consuls, is onely in Ciuill causes, according as before is recited: and all such forfeitures as shall happen, shall be arbitrated by the discretion of the saide Prior and Consuls, and disposed of, as before is said.</p>
+               </div>
+               <div n="6" type="article">
+                  <head>ARTIC. 6.</head>
+                  <p>Item touching all matters that con<g ref="char:EOLhyphen"/>cerne the Authoritie of the Prior and Consuls, and doe appertaine to their knowledge, all other Iudges, their De<g ref="char:EOLhyphen"/>puties, or Assignes, within all the Kings Dominions, cannot impeach or gaine<g ref="char:EOLhyphen"/>say: Neither shall they crosse or contra<g ref="char:EOLhyphen"/>dict any thing, directly, or indirectly, whatsoeuer the said Prior and Consuls, or their Officers shall do: As is mentio<g ref="char:EOLhyphen"/>ned in the Letters Patents, in the Mo<g ref="char:EOLhyphen"/>neth of May.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The matters wherein they may Sum<g ref="char:EOLhyphen"/>marily proceed.</head>
+               <p>THe King in his said letters patēts, of the month of May, hath named &amp; specified the said matters Sūmaries, the
+<pb facs="tcp:178654:29"/>knowledge whereof doth appertaine to the said Prior and Consuls, which bee these: Knowledgement of Billes, Re<g ref="char:EOLhyphen"/>scriptions, Letters of Exchange, Let<g ref="char:EOLhyphen"/>ters of Aduice, Receites, Blanks signed, Suerties, Garnishment, &amp; Consignati<g ref="char:EOLhyphen"/>ons of monies, of what summe so euer: And all other circumstances, belonging and concerning the Trade of Merchan<g ref="char:EOLhyphen"/>dize, and matters of Exchange; As is more amply contained in the Letters Patents, of the Moneth of May.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The maner how to proceed in the sayd</hi> Sum<g ref="char:EOLhyphen"/>marie <hi>matters inclusiue, vntill defini<g ref="char:EOLhyphen"/>tiue sentence, according to the Kings Or<g ref="char:EOLhyphen"/>dinance.</hi>
+               </head>
+               <div n="1" type="article">
+                  <head>ARTICLE. 1.</head>
+                  <p>FIrst, the said Prior and Consuls, shall cause all Complainants, at their first comming before them, in person or by their Atturneyes sufficiently authori<g ref="char:EOLhyphen"/>zed, to nominate a place in the same Towne, for his residence or abiding, and in default thereof, the said Prior and Consuls, shal refuse to receiue their
+<pb facs="tcp:178654:29"/>demaunds, defences, and oppositions, specially the Complaynants, as is con<g ref="char:EOLhyphen"/>tained in the first Article of the Kings Ordinance in the Rubrick: That all Li<g ref="char:EOLhyphen"/>tigans, &amp;c.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 2.</head>
+                  <p>Item, the said Prior and Consuls, are at all times authorized, to proceed in their said Iurisdiction, ordained for the expedition of Suites, and the ease of all Merchants trading in that place: except those dayes, and Feastes, in which the Court of Parliament of the sayd place doeth forbeare: According to which Order, the said Priour &amp; Consuls may cease the exercises of their Authoritie; And excepting furthermore, the day of the feast of the Kings (called Twelf<g ref="char:EOLhyphen"/>day) in which the said Prior and Con<g ref="char:EOLhyphen"/>suls are new chosen.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 3.</head>
+                  <p>Item, the said Prior and Consuls, in the sayde causes, cannot permit more then one delay, which is a sufficient aduantage for the partie offending, as
+<pb facs="tcp:178654:30"/>is contained in the saide Letters Pa<g ref="char:EOLhyphen"/>tents of the Moneth of May: And shall be hereafter declared.</p>
+               </div>
+               <div n="4" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 4.</head>
+                  <p>Item, if any question shall grow, for the reknowledgements of Billes, the partie that is adiourned shall bee per<g ref="char:EOLhyphen"/>mitted but one default, as aboue said; to come, either to confesse, or denie his deed: And hauing made one default, his Bill shall bee held as confessed and auailable, from the day that the saide Prior and Consuls shal giue their Sen<g ref="char:EOLhyphen"/>tences: As is contained in the Kings Ordinances, and in the Rubricke, for the reknowledgement of Bills.</p>
+               </div>
+               <div n="5" type="article">
+                  <head>ARTIC. 5.</head>
+                  <p>Item, the sayde Prior and Consuls, may take notice, that their Authoritie is greater in the reknowledgement of Billes, then the Authoritie of all other Iudges, and more then the foresaid Or<g ref="char:EOLhyphen"/>dinance doeth expresse: For the sayd Ordinance doeth extend, but to the adiourning of the sayd persons onely.
+<pb facs="tcp:178654:30"/>And the said Prior and Consuls, vpon one only default, and notice left at the lodging of the offender, may, auerre al Billes, and declare the same to be pay<g ref="char:EOLhyphen"/>able, As is contained in the sayd Let<g ref="char:EOLhyphen"/>ters Patents, of the Moneth of May.</p>
+               </div>
+               <div n="6" type="article">
+                  <head>ARTIC. 6.</head>
+                  <p>Item, all Debtors and Defendants, being in question for the said matters, Summarie and prouisionall, shall be by their Creditors and Plaintiffes, onely once, warned to appeare: That is at a competent day, and houre, before the said Prior and Consuls, to accept or impungne the demand, which shall be made against them, by their Creditors and Plaintiffes.</p>
+               </div>
+               <div n="7" type="article">
+                  <head>ARTIC. 7.</head>
+                  <p>Item, all warnings or adiournments, that shalbe giuen at the first beginning of any Proces, shall containe summa<g ref="char:EOLhyphen"/>rily, all the demaunds of the Plaintiffe, to the ende that the Defendant being
+<pb facs="tcp:178654:31"/>adiourned, may come prepared for his answere, at the day and time assigned: As is contained in the third Article of the Kings Ordinances in the <hi>Rubricke</hi> of Adiournments.</p>
+               </div>
+               <div n="8" type="article">
+                  <head>ARTIC. 8.</head>
+                  <p>Item, the Messenger or Serieant, ex<g ref="char:EOLhyphen"/>ecuting the sayde Prior and Consuls Letters of Summons, touching the said matter Summarie, hee must ad<g ref="char:EOLhyphen"/>iourne the person himselfe, if hee can finde him: otherwise, he shall fixe, as<g ref="char:EOLhyphen"/>well the Coppie of the Demaund, as his sayde Exployt, at the doore of the lodging of him that is summoned, and the same to be duly proued: and shall afterwards giue knowledge vnto the said Prior &amp; Consuls, of his diligences done therein: As is contained in the saide Letters Patents, of the Moneth of May.</p>
+               </div>
+               <div n="9" type="article">
+                  <head>ARTIC. 9.</head>
+                  <p>Item, forasmuch as in the foresaide matters, the Plaintiff, may (in regard of one default) obtaine aduantage in his
+<pb facs="tcp:178654:31"/>cause, as is contained in the sixth Arti<g ref="char:EOLhyphen"/>cle of the Kings Ordinances, in the <hi>Ru<g ref="char:EOLhyphen"/>bricke</hi> of Serieants. Therefore all exe<g ref="char:EOLhyphen"/>cutions, or exployts of all Messengers or Serieants, shall be done vnder the attestation and record of two Witnes<g ref="char:EOLhyphen"/>ses, or of one at the least: And the said Messengers and Serieants, shall bee bound, to leaue a Coppie thereof, with the parties so assigned, or else, to fixe the same vpon the doore of the lodging, as beforesaid: although they make resistance: and to make men<g ref="char:EOLhyphen"/>tion of all their exployts, at the char<g ref="char:EOLhyphen"/>ges of the Plaintiffe: As is contained in the first &amp; last Article of the Kings Ordinances in the <hi>Rubricke</hi> of adiourn<g ref="char:EOLhyphen"/>ments.</p>
+               </div>
+               <div n="10" type="article">
+                  <head>ARTIC. 10.</head>
+                  <p>Item, if the partie so adiourned, make not his appearence at the time to him assigned, then the sayd Prior and Consuls, may proceed against him in the said causes, by seizing of his goods, so farre as the summes shall amount vnto, pretended to bee owing to the
+<pb facs="tcp:178654:32"/>Plaintiffe, or by arresting and impri<g ref="char:EOLhyphen"/>soning the partie adiourned if he may bee taken, and so to detaine him, vntill he shall put into the handes of the Iu<g ref="char:EOLhyphen"/>stice, the like summes pretended to be owing to the Plaintiffe: And this, in case where the partie adiourned and imprisoned, would declare nothing in his defence, against the other partie: The hand of the King, and of Iustice first garnished, like as the Conseruator of the Fayres, of the sayd Citie of <hi>Lyon</hi> doth; And is contained in said the Let<g ref="char:EOLhyphen"/>ters Patents, of the moneth of Februa<g ref="char:EOLhyphen"/>rie, hereafter expressed.</p>
+               </div>
+               <div n="11" type="article">
+                  <head>ARTIC. 11.</head>
+                  <p>Item, without seizure of goods, it is lawfull for the said Prior &amp; Consuls, at the request of the plaintiffe, to pro<g ref="char:EOLhyphen"/>ceed against the debtor, by arrest and imprisonment, if that bee thought the easiest way, to doe right to the parties, without shew of Proces: Like as the Conseruator of the sayde Citie of <hi>Ly<g ref="char:EOLhyphen"/>en,</hi> doeth: According to the will and
+<pb facs="tcp:178654:32"/>pleasure of the late King <hi>Francis,</hi> con<g ref="char:EOLhyphen"/>tained in the salide Letters Patents, of the Month of Februarie.</p>
+               </div>
+               <div n="12" type="article">
+                  <head>ARTIC. 12.</head>
+                  <p>Item, if the like summes bee con<g ref="char:EOLhyphen"/>signed by the Defendant, hee being heard in his defences, shall bee relea<g ref="char:EOLhyphen"/>sed or condemned, by the saide Pri<g ref="char:EOLhyphen"/>or and Consuls, with charges and amends, according to the exegents of the cause, and qualitie of the person. And if the Defendant, and he that is called, bee prisoner, in regard that he hath not garnished the hand of the King and Iustice, nor consigned the summes contained in the demand of his aduerse partie, heard vpon his de<g ref="char:EOLhyphen"/>fence: The sayde Prior and Consuls, shall proceed against all such persons, as abouesayde: And like as the Con<g ref="char:EOLhyphen"/>seruator of the Fayres of the sayde Citie of <hi>Lyon,</hi> doth; To auoyd long proceedings, considering the Parties bee present: And being for matters
+<pb facs="tcp:178654:33"/>touching Trade of Merchandize, and causes of Exchange.</p>
+               </div>
+               <div n="13" type="article">
+                  <head>ARTIC. 13.</head>
+                  <p>Item, if hee that is adiourned, do not make his apparance according as he is assigned to doe, neither is priso<g ref="char:EOLhyphen"/>ner, then after one default, the sayd Prior and Consuls may proceed, by seizing of his goods, so farre as the summes contained in the demaund of the aduerse partie doe amount vnto. And they may ordaine, to call the sayd debtor, that at a certaine day, houre, and place, hee may come to see his goods so seized, to be publikely solde, to the ende that the Plaintiffe may be satisfied, with the money proceeding thereof, according to reason, without any further delay: As is contained in the sayde Letters Patents, of the Mo<g ref="char:EOLhyphen"/>neth of May.</p>
+               </div>
+               <div n="14" type="article">
+                  <head>ARTIC. 14.</head>
+                  <p>Item, if the goods so taken and seized bee vnmoueable, the sayd Pri<g ref="char:EOLhyphen"/>or and Consuls hauing caused to bee
+<pb facs="tcp:178654:33"/>made the Cries, and present sale there<g ref="char:EOLhyphen"/>of, they shall cause the said goods to be committed to a certaine Commissio<g ref="char:EOLhyphen"/>ner, by the messenger or Serieant, who did execute the said Cries: And the partie who is the pursuer, shall cause to be intimated &amp; signified the said Cries to all men, to whom it shall appertain: And to make fast the intimatiō to their exploit of their said Cries, vnder the Counter seale of the said Prior &amp; Con<g ref="char:EOLhyphen"/>sulls, vpon paine otherwise to be of no effect: As is conteined in the Kings Ordinances in the Rewbrick of Cries and sales, in the second and fourth Ar<g ref="char:EOLhyphen"/>ticles.</p>
+               </div>
+               <div n="15" type="article">
+                  <head>ARTIC. 15.</head>
+                  <p>Item, the Notice and Cries being done according to the forme accusto<g ref="char:EOLhyphen"/>mably kept in the Towne of <hi>Tholouze,</hi> the Sentence and Decree of the saide Prior and Consulls being giuen, vpon the goods so notified and sold, shall be interposed and executed in the sauour of him that offereth moste, and last inhanser of the price, as is ordinarily
+<pb facs="tcp:178654:34"/>done in the Iurisdictions of the other Iudges of the said place; Ac<g ref="char:EOLhyphen"/>cording to the tenor of the said Letters Patents of the Moneth of May: And as contained in the fift article of the kings ordinances in the Rubricke of Obliga<g ref="char:EOLhyphen"/>tions.</p>
+               </div>
+               <div n="16" type="article">
+                  <head>ARTIC. 16.</head>
+                  <p>Item, forasmuch as the sayd Prior and Consulls by the tenour of the sayd Letters, may vse the solemnities and meanes in the exercising of their Iu<g ref="char:EOLhyphen"/>risdiction, the which the other Iud<g ref="char:EOLhyphen"/>ges of the Kingdome doe vse; The sayd Prior and Consulls may vpon the interposition of Decree, obserue and keepe, the custome of the Iudges of <hi>Normandie,</hi> conteined in the 24. Ar<g ref="char:EOLhyphen"/>ticle of the Kings Ordinances, in the Rewbricke of Abolitions, Confessi<g ref="char:EOLhyphen"/>ons, and Graunts, &amp;c. whereof the te<g ref="char:EOLhyphen"/>nour ensueth.</p>
+               </div>
+               <div n="17" type="article">
+                  <head>ARTIC. 17.</head>
+                  <p>Item, when as many peeces of lands and heritages, Returnres do passe by
+<pb facs="tcp:178654:34"/>one onely Decree, vpon any person for his debts, although there be many inhansers of price, yet notwithstan<g ref="char:EOLhyphen"/>ding they shall suffer one onely De<g ref="char:EOLhyphen"/>cree to passe, which shall be by the last inhanser, to whome the adiudication shall be made; And the Register can<g ref="char:EOLhyphen"/>not constraine the other parties, speci<g ref="char:EOLhyphen"/>ally the Decretant, to take the Letter of Decree and Estate, But they shall suffer the said Inhansers to take the let<g ref="char:EOLhyphen"/>ters of their Inhansements simply; And the said Decretant to take the Acte of that which shall be ordeined vpon his opposition, or else the saide Prior and Consuls may make the act of Returne, to the other Iudges, to whome the knowledge of the oppositions do ap<g ref="char:EOLhyphen"/>pertaine.</p>
+               </div>
+               <div n="18" type="article">
+                  <head>ARTIC. 18.</head>
+                  <p>Item, for all executions where there is commaundement to paie within a certaie time, it shall not be needfull for the validitie of the exployte of
+<pb facs="tcp:178654:35"/>the Cries &amp; Notices, or other seizing of goods or person, to make farther en<g ref="char:EOLhyphen"/>quiry of goods moueable: But it shall suffice a Commaundement duly made by a Messenger or Serieant to the per<g ref="char:EOLhyphen"/>son, or warning left at his Lodging, Af<g ref="char:EOLhyphen"/>ter which the goods seized, or the per<g ref="char:EOLhyphen"/>son arrested, shall remaine vntill such time as he haue obeyed the said Com<g ref="char:EOLhyphen"/>maundement: As is conteined in the Kings Ordinances in the 11. Article of the Rewbricke of Obligations: And in the said Letters Patents of the mo<g ref="char:EOLhyphen"/>neth of February, or otherwise they may proceed to the sale of the goods, as is before specified.</p>
+               </div>
+               <div n="19" type="article">
+                  <head>ARTIC. 19.</head>
+                  <p>Item, if the goods so seized be moue<g ref="char:EOLhyphen"/>ables, then after one default, they shall be solde publikely to him that offers most, to make satisfaction to the plain<g ref="char:EOLhyphen"/>tiffe: And before the sale of the saide goods, shall cause the partie pursuer to giue a signation to the defailant, for to come and see sold and deliuered his
+<pb facs="tcp:178654:35"/>goods to the most offerer, According to the custom of the Iudges of the said place: And is contained in the said let<g ref="char:EOLhyphen"/>ters Patents of the moneth of May.</p>
+               </div>
+               <div n="20" type="article">
+                  <head>ARTIC. 20.</head>
+                  <p>Item, if the saide parties adiourned, do make their appearance at the day assigned them, And do shew forth any matter against the demand of the plain<g ref="char:EOLhyphen"/>tiffe, being by the said Prior and Con<g ref="char:EOLhyphen"/>sulls condemned to garnish and Con<g ref="char:EOLhyphen"/>signe the summes conteined in the said demand, they cannot impeach or hin<g ref="char:EOLhyphen"/>der the said garnishing and consignati<g ref="char:EOLhyphen"/>on: Although they doe appeale from the said sentence which is prouisionall, and cannot be impeached or suspen<g ref="char:EOLhyphen"/>ded by appeale: as is conteined in the last Article of the Kings Ordinances, and in the Rewbricke of prouisionall Sentences; And in default of garni<g ref="char:EOLhyphen"/>shing and obeying the said Sentences; The said Prior and Consulls, may con<g ref="char:EOLhyphen"/>straine the Refusants, by arresting and imprisoning of their persons: As is
+<pb facs="tcp:178654:36"/>conteined in the two Letters Patents of the Moneths of May and February hereafter expressed.</p>
+               </div>
+               <div n="21" type="article">
+                  <head>ARTIC. 21.</head>
+                  <p>Item, if one opposition be framed against the seizing, sale, or deliuery of the goods, or against the Cries or in<g ref="char:EOLhyphen"/>terpositions of Decree, or against any other chiefe point, where opposition may take place, the hand of the King and of Iustice remaining duly garni<g ref="char:EOLhyphen"/>shed, for the matter of the authoritie of the said Prior and Consulls, the par<g ref="char:EOLhyphen"/>ties so opposing themselues, shall be sent to their Iudge and chiefe men of their Prouince, to declare before them the causes of their oppositions, As is contained in certaine Letters of the Kings; Giuen at <hi>Fountaine Bleau,</hi> the seuenth day of December, 1551. Read and published according to their Te<g ref="char:EOLhyphen"/>nours, in the Parliament of the saide Citie of <hi>Thoulouze,</hi> the ninth day of February in the same yeare.</p>
+               </div>
+               <div n="22" type="article">
+                  <pb facs="tcp:178654:36"/>
+                  <head>ARTIC. 22.</head>
+                  <p>Item, if the partie adiourned do of<g ref="char:EOLhyphen"/>fer Suertie, yet notwithstanding hee shall be caused to garnish, and then haue power to call his Suertie: The hand of the King &amp; Iustice remaining garnished, who being called, before he be receiued as Suertie, shall make the like garnishment, that after they may proceed aswell against him, as the prin<g ref="char:EOLhyphen"/>cipall debter, according to reason: And all Sentences &amp; Iudgements that shall be giuen against the Suertie, shall be to be executed; to wit, against the prin<g ref="char:EOLhyphen"/>cipall debter, for the principall summe: And against the Suerties for the char<g ref="char:EOLhyphen"/>ges, damage, and Interest onely; As is cōtained in the 20. Article of the kings Ordinances, in the Rubricke of De<g ref="char:EOLhyphen"/>layes.</p>
+               </div>
+               <div n="23" type="article">
+                  <head>ARTIC. 23.</head>
+                  <p>Item, to call a Suertie before Contestation of the Cause, the sayd
+<pb facs="tcp:178654:37"/> Prior and Consulls cannot permit but onely one default, vnlesse the first suertie, will call a third man for suertie, to whome they may allow one other only default: as is conteined in the se<g ref="char:EOLhyphen"/>cond, third, and fourth Article of the Kings Ordinances, in the said Rubrick of delayes.</p>
+               </div>
+               <div n="24" type="article">
+                  <head>ARTIC. 24.</head>
+                  <p>Item, in the said matters to be pro<g ref="char:EOLhyphen"/>ceeded against the Cōtumasers, there is no need to giue any delay, but after one default to proceed as aforesaid; for one onely default in the saide matters, doth giue great aduantage to one of the parties; As is conteined in the first Article of the Kings Ordinances in the Rubricke of adiourments: And all de<g ref="char:EOLhyphen"/>layes are left by the King to the discre<g ref="char:EOLhyphen"/>tion of the said Prior and Consulls, to graunt them according to the qualitie of the persons, causes and places, as the other Iudges do.</p>
+               </div>
+               <div n="25" type="article">
+                  <pb facs="tcp:178654:38"/>
+                  <head>ARTIC. 25.</head>
+                  <p>Item, if the demaundant do attempt any suite by subtiltie, and causeth any execution thereof against the aduerse partie, or otherwise if the defendant vse any subtill helpes, or vnlawfull meanes, to defraude the Plaintiffe, and not to satisfie him; The said Prior and Consulls may condemne the partie culpable, (for vsing the said deceit or vnlawfull meanes) in a forfeiture, and the same to be disposed of as aforesaid; As is conteined in the tenth Article of Kings Ordinances in the Rubricke of Obligations, And in the said Letters Patents of the moneth of May.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>A note of such matters wherein it is needfull to haue instruction, and knowledge of the cause.</head>
+               <p>ALl those matters are specified and named particularly in the said let<g ref="char:EOLhyphen"/>ters Patents of the moneth of May,
+<pb facs="tcp:178654:39"/>euen as is likewise named, Obligations, Assotiations, either generall or particu<g ref="char:EOLhyphen"/>lar, Nominations of persons, or suffici<g ref="char:EOLhyphen"/>encie of goods, Assurances, Accounts, and Awditing thereof, loane of Rests, satisfaction of the whole or of part, Transports, Delegations, Nouations of debts, Societies, Bargaines, and other Acts concerning the businesse of the saide Bourse, and all therevnto be<g ref="char:EOLhyphen"/>longing.</p>
+               <div n="1" type="article">
+                  <head>ARTIC. 1.</head>
+                  <p>First, the Kings pleasure is, by the tenour of the saide Letters of the Mo<g ref="char:EOLhyphen"/>neth of May, that the sayd Prior and Consulls do proceede to Iudgement of the debates, and differences moued, or to be moued, by reason of the saide matters, after two defaultes, and that the parties adiourned two times, and making no apparance the second day to them assigned, shall be subiect to the same Iudgement: Note that the King hath not limited any time for the said defaults, butleaueth <hi>y<seg rend="sup">e</seg>
+                     </hi> same to the
+<pb facs="tcp:178654:39"/>discretion of the sayd Prior and Con<g ref="char:EOLhyphen"/>sulls, who are to limit the same, accor<g ref="char:EOLhyphen"/>ding to the distance of the place, qua<g ref="char:EOLhyphen"/>litie of the partie adiourned, commo<g ref="char:EOLhyphen"/>ditie of the time, and cause of the bu<g ref="char:EOLhyphen"/>sinesse, as all other Iudges are accusto<g ref="char:EOLhyphen"/>med to limit the defaults, according to the same circumstances, and according to the common disposition of right: And the tenour of the second Article of the Kings Ordinances in the Ru<g ref="char:EOLhyphen"/>bricke of Delayes.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>ARTIC. 2.</head>
+                  <p>Item, whether the parties adiour<g ref="char:EOLhyphen"/>ned do appeare, or make default the day assigned them the seconde time; The saide Prior and Consulls (before they do proceed to Iudgement of the saide matters) shall heare the demaun<g ref="char:EOLhyphen"/>dants, who vpon their oathes shall af<g ref="char:EOLhyphen"/>firme their debts so demaunded to be true, and containe nothing but truth: And then the defendants so adiourned being present, answering by credite, which is as much to say, that it is
+<pb facs="tcp:178654:40"/>true, that the demaund of the Plain<g ref="char:EOLhyphen"/>tiffe do containe truth: And present<g ref="char:EOLhyphen"/>ly the saide Prior and Consulls con<g ref="char:EOLhyphen"/>demning them to satisfie the said Plain<g ref="char:EOLhyphen"/>tiffe, with all costes presently taxed, with out forme of Proces, by the said Prior and Consulls, according to the Kings pleasure contained in the sayd Letters of the Moneth of May.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>ARTIC. 3.</head>
+                  <p>Item, if the parties so adiourned shall answere by no credit, which is as much to say, that the demaunds of the Plaintiffes are not true, in all, or in part, they shall then affirme the same vpon their oathes, and submit them<g ref="char:EOLhyphen"/>selues to proue the contrary, as is con<g ref="char:EOLhyphen"/>tained in the first Article of the Kings Ordinances in the Rewbricke of An<g ref="char:EOLhyphen"/>sweres.</p>
+               </div>
+               <div n="4" type="article">
+                  <head>ARTIC. 4.</head>
+                  <p>Item, if the parties so adiourned, make no appearance (the two defaults
+<pb facs="tcp:178654:40"/>being past) then shall the Plaintiffe be subiect to send vnto the Defendant a Coppie of his demaund with his oath, to the end that he may either impugne the same, or allow thereof, which the Plaintiffe may doo either by himselfe, or his Atturney, intimating vnto him, that if he faile therein, that then the said Prior and Consulls, will proceed against him summarily to Iudgement, vpon the Plaintiffes conclusion as be<g ref="char:EOLhyphen"/>fore is said.</p>
+               </div>
+               <div n="5" type="article">
+                  <head>ARTIC. 5.</head>
+                  <p>Item, if the parties do varie in their demaunds, they shall be subiect to giue in writing, both vnder their handes and oathes, those points wherein they varie, and that within eight dayes, to the ende that diligent enquiry may be made thereof: As is conteined in the third Article of the Kings Ordinan<g ref="char:EOLhyphen"/>ces in the Rubricke of Articles agreed vpon.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:178654:41"/>
+               <head>Of Inquiries.</head>
+               <div n="1" type="article">
+                  <head>ARTIC. 1.</head>
+                  <p>Item, the said Prior and Consulls, their Lieftenants and Deputies in ma<g ref="char:EOLhyphen"/>king their Inquest, may not receiue any witnesses, nor take their oathes, nor proceed in proofe, without the aduerse partie be first called therevn<g ref="char:EOLhyphen"/>to, vpon paine that their proceedings in such a case shall be of no value, and if the partie shall make default, after he hath bene twice called, they may then receiue the witnesses, and pro<g ref="char:EOLhyphen"/>ceede to the Inquirie, and all thinges therevnto belonging: As is contei<g ref="char:EOLhyphen"/>ned in the 12.13. and 14. Articles of the Kings Ordinances in the Rubricke of Comissaries to make Inquest.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>ARTIC. 2.</head>
+                  <p>Item, if enquirie bee needfull to be made for both parties, and one of
+<pb facs="tcp:178654:41"/>the parties will appeale from the Prior and Consulls and their deputies, then the sayd Prior and Consulls and theyr deputies, may make enquirie in the be<g ref="char:EOLhyphen"/>halfe of the partie that doeth not ap<g ref="char:EOLhyphen"/>peale: As is contained in the 15. Article of the foresaid Rubricke.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>ARTIC. 3.</head>
+                  <p>Item, the saide Prior and Consulls in making their enquiries, they can<g ref="char:EOLhyphen"/>not giue but one onely default, with<g ref="char:EOLhyphen"/>in which time the parties must make report of their enquiries duly to bee done, and closed with their Seales, As is conteined in the ninth, tenth, and eleuenth Article of the kings Ordinan<g ref="char:EOLhyphen"/>ces in the Rubricke of Delayes.</p>
+               </div>
+               <div n="4" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 4.</head>
+                  <p>Item, sauing that if the parties haue done theyr diligences in making the same enquiries, within the time to to them limited, and cannot within that time finish the same, then vpō due
+<pb facs="tcp:178654:42"/>proofe made of their diligēces so done, in such case the said Prior and Consuls may giue them one onely delay more, after the which time they cannot make any further enquirie, by witnesses or otherwise: As is conteined in the 12. and 13. Articles of the saide Ordinan<g ref="char:EOLhyphen"/>ces.</p>
+               </div>
+               <div n="5" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 5.</head>
+                  <p>Item, the parties receiued to make enquiry before the said Prior &amp; Con<g ref="char:EOLhyphen"/>sulls, may vse all sorts of lawful proofes, aswell by right, as by the Kings Ordi<g ref="char:EOLhyphen"/>nances, Prouided that the same bee done, assummarily as may be, accor<g ref="char:EOLhyphen"/>ding to the power of the Authoritie, of the said Prior and Consulls: All which is to be done in ciuill manner, be it by witnesse, by writings publike or pri<g ref="char:EOLhyphen"/>uate, by collection of Letters, by oath in the fulfilling of all proofe: And o<g ref="char:EOLhyphen"/>therwise according to the exegents of the cause, to know the truth, and to in<g ref="char:EOLhyphen"/>struct the Consciences of the said Pri<g ref="char:EOLhyphen"/>or and Consulls.</p>
+               </div>
+               <div n="6" type="article">
+                  <pb facs="tcp:178654:42"/>
+                  <head>
+                     <hi>ARTIC.</hi> 6.</head>
+                  <p>Item, if in the end of the cause of the Demands, &amp; Articles of the Par<g ref="char:EOLhyphen"/>ties, there bee found any Article, false and deceitfull, hee that hath affirmed the same, shall be condemned by the sayd Prior &amp; Consuls, in the penaltie of one hundreth soles-parasitz, halfe thereof to the King, &amp; the other halfe to the partie: As is contained in the 15. Article of the Kings Ordinances, in the Rubricke of Answers. And they may make vse of the same penalties, against all parties, who shall not with<g ref="char:EOLhyphen"/>in eight dayes after all delayes, giue in all their Demands, and things con<g ref="char:EOLhyphen"/>trary thereunto, being so ordained by the sayd Prior and Consuls: As is contained in the fourth Article of the Kings Ordinances, in the Rubricke of Articles of Agreement.</p>
+               </div>
+               <div n="7" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 7.</head>
+                  <p>Item the sayde Prior and Consuls,
+<pb facs="tcp:178654:43"/>and their Deputies, in the prouing of any matter in the behalfe of any man whatsoeuer, cannot take but ten wit<g ref="char:EOLhyphen"/>nesses, and them secretly, the one after the other, vpon paine of an arbitrable penaltie, wherein the sayd Prior and Consuls and their Deputies may bee condemned, by the Court of Parlia<g ref="char:EOLhyphen"/>ment of the same place: And that all witnesses of whom they shall take here<g ref="char:EOLhyphen"/>in aboue the sayde number, shall bee reiected: As is contained in the Ru<g ref="char:EOLhyphen"/>bricke of Witnesses, and likewise vp<g ref="char:EOLhyphen"/>on a matter in the Kings Ordinances.</p>
+               </div>
+               <div n="8" type="article">
+                  <head>ARTIC. 8.</head>
+                  <p>Item, the Inquiries being recei<g ref="char:EOLhyphen"/>ued, the Parties there, both or seue<g ref="char:EOLhyphen"/>rally, shall bee subiect to giue in, their Letters of saluations, or reproaches, within three dayes after the Recei<g ref="char:EOLhyphen"/>uing the sayd Inquiries, without any further delay, vpon paine to bee refu<g ref="char:EOLhyphen"/>sed, as is contained in the second Ar<g ref="char:EOLhyphen"/>ticle of the Kings Ordinances, in the Rubrick of Reproaches.</p>
+               </div>
+               <div n="9" type="article">
+                  <pb facs="tcp:178654:43"/>
+                  <head>ARTIC. 9.</head>
+                  <p>Item, all Contradictions against the Letters and saluations, shall bee giuen in, within eight dayes after the sayde Reproaches, and saluations, without any further delay, otherwise to be re<g ref="char:EOLhyphen"/>fused: As is contained in the sixt Arti<g ref="char:EOLhyphen"/>cle of the said Ordinances.</p>
+               </div>
+               <div n="10" type="article">
+                  <head>ARTIC. 10.</head>
+                  <p>Item, after publication made of the said Inquiries, no reproaches, saluatiōs, and Contradictions, shall be permitted to be giuen in; But they shall proceed to Iudgement, &amp; decision of the cause, vpon the former proceedings: As is contained in the third Article of the Kings Ordinances.</p>
+               </div>
+               <div n="11" type="article">
+                  <head>ARTIC. 11.</head>
+                  <p>Item, all Inquiries, considering they cannot be other then Ciuill, shall bee published before the sayde Prior and Consuls, hauing first obserued the tenour of the Articles here before
+<pb facs="tcp:178654:44"/>immediatly written, As is contained in the kings ordinances, in the Rubrick of Publications of Inquests, and euery party in the end of the cause, may retire his owne if he so please: As is obser<g ref="char:EOLhyphen"/>ued in the Iurisdiction of other inferior Iudges.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Production.</head>
+               <div n="1" type="article">
+                  <head>ARTIC. 1.</head>
+                  <p>Item, if the proofe be to bee made by Writings, then the Parties are to bring in all the same Writings: by which they pretend to proue their in<g ref="char:EOLhyphen"/>tention, within three dayes, without any further delay, vnlesse the distance of the place, doe require any more time, As is contained in the third Ar<g ref="char:EOLhyphen"/>ticle of the Kings Ordinances, in the Rubricke of Productions.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>ARTIC. 2.</head>
+                  <p>Item, if the Parties produce any writings that concerne not the cause (to the end to trouble the Iudgement
+<pb facs="tcp:178654:44"/>of the said Prior &amp; Consuls) they may then condemne the same partie, that shall bring in any such Writings, in the penaltie of 100. soles-parasitz, As is contained in the second Article of the foresayde Rubricke, to be appli<g ref="char:EOLhyphen"/>ed as before is sayd.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 3.</head>
+                  <p>Item, the sayde respite of three dayes, or other respites, giuen by the discreete deliberation of the sayde Pri<g ref="char:EOLhyphen"/>or and Consulls, being past, the Par<g ref="char:EOLhyphen"/>ties shall not after be permitted to pro<g ref="char:EOLhyphen"/>duce any further Writings, but the proces shall bee iudged in the same state, as shall bee found at the expiring of the respite, As is contained in the fourth Article of the foresaid Rubrick of Productions.</p>
+               </div>
+               <div n="4" type="article">
+                  <head>ARTIC. 4.</head>
+                  <p>Item, the Register of the sayde Prior and Consuls, shall be subiect to keepe a little Inuentorie of all the Wri<g ref="char:EOLhyphen"/>tings
+<pb facs="tcp:178654:45"/>that shall be produced, and shall cause the Parties that produce them, to write their names vpon euery one of them, to the ende that none of the writings so produced, bee altered or lost, which might happen to bee of great importance, specially amongst Merchants, betweene whom often<g ref="char:EOLhyphen"/>times, groweth questions of great summes, conteined in little papers; As bils of Debt, and letters of Exchange: And likewise to the ende that all Wri<g ref="char:EOLhyphen"/>tings so produced, might bee seene to agree with the tenour of the Inuento<g ref="char:EOLhyphen"/>ry, in the deciding of the Proces: As is contained in the Kings Ordinances; in the Rubricke of Inuentories.</p>
+               </div>
+               <div n="5" type="article">
+                  <head>ARTIC. 5.</head>
+                  <p>Item, the said Register shall not take out any Coppy of matters of effect out of the sayde Inuentory, neither for the one partie nor for the other, but onely the cause, and the end where<g ref="char:EOLhyphen"/>fore the sayde writings are produced, vpon paine to forfeit a hundreth soles<g ref="char:EOLhyphen"/>parisitz,
+<pb facs="tcp:178654:45"/>to bee imployed to the profite of the sayd Bourse, like as the Attur<g ref="char:EOLhyphen"/>neys of parties in other Iurisdictions, are condemned in the like summe, to be imployed to their Chappell: As is contained in the second Article of the said Ordinances, in the Rubricke of Productions.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Sentences.</head>
+               <div n="1" type="article">
+                  <head>ARTIC. 1.</head>
+                  <p>First, the say de Prior and Consuls, according to the certaintie and trueth of the proofes and alligations made before them, by the parties, shall pro<g ref="char:EOLhyphen"/>nounce their Sentences cleerely, deci<g ref="char:EOLhyphen"/>ding the Proces, vpon paine to be pu<g ref="char:EOLhyphen"/>nished by the Court of Parliament of the said place, vpon the reformation of their Sentences: As is contained in the second Article of the said Ordi<g ref="char:EOLhyphen"/>nances, in the Rubricke of Sentences.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 2.</head>
+                  <p>Item, after the said Prior and Con<g ref="char:EOLhyphen"/>suls, haue pronounced their Sentence
+<pb facs="tcp:178654:46"/>without correcting, adding or dimi<g ref="char:EOLhyphen"/>nishing the same, the said Register shall giue a Coppie of the sayde Sentences, to either of the sayd Parties, being re<g ref="char:EOLhyphen"/>quired thereunto, vpon an arbritable penaltie to bee layd vpon him, and to be held a false man if hee doe the con<g ref="char:EOLhyphen"/>trary; as is conteyned in the third Arti<g ref="char:EOLhyphen"/>cle of the foresaid Rubricke.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>ARTIC. 3.</head>
+                  <p>Item, the Kings pleasure is that all Sentences giuen by the saide Prior and Consuls, both interlocutory and defi<g ref="char:EOLhyphen"/>nitiue, shall be of force and effect, euen as those of other Iudges, As is con<g ref="char:EOLhyphen"/>teyned in the last Article of the sayde Rubricke of Sentences.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Arbitrators.</head>
+               <div n="1" type="article">
+                  <head>
+                     <hi>ARTICLE.</hi> 1.</head>
+                  <p>Item, the Merchants of the iu<g ref="char:EOLhyphen"/>risdictions of the sayd Bourse of <hi>Thou<g ref="char:EOLhyphen"/>louze,</hi> as well by their owne consents,
+<pb facs="tcp:178654:46"/>as by the Commandement of the said Prior and Consuls, may commit their differences to Arbitrators, from whose sentence, they may appeale to the sayd Prior and Consuls, who as they shall see cause, may reforme, or confirme the Sentence of the said Arbitrators.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 2.</head>
+                  <p>Item, the appellation of the Sen<g ref="char:EOLhyphen"/>tence of the Arbitrators, shall not be receiued by the sayde Prior and Con<g ref="char:EOLhyphen"/>sulls, before the Arbitrament bee per<g ref="char:EOLhyphen"/>formed, by the party that doth appeale: vpon condition to bee restored in the ende of Proces, if it bee so thought good by the saide Prior and Consulls. As is contained in the Kings Ordinan<g ref="char:EOLhyphen"/>ces in the Rubricke of Arbitrators.</p>
+               </div>
+               <div n="3" type="article">
+                  <head>ARTIC. 3.</head>
+                  <p>Item, the sayd Prior, &amp; Consuls, are to note, that no Merchant, nor other being of their Iurisdiction, can tran<g ref="char:EOLhyphen"/>port, or make ouer their interest to any person Priuiledged, and not subiect to the same Iurisdiction, be it by gift, sale,
+<pb facs="tcp:178654:47"/>or Exchange, or by any other meanes, to the end to auoyd their Authoritie, vpon paine that the same transports or possessings, shal be of no effect, and the losse of their right and cause: As is contained in the first and second Arti<g ref="char:EOLhyphen"/>cles of the Kings Ordinances, in the Rubricke of Sessions.</p>
+               </div>
+               <div n="4" type="article">
+                  <head>ARTIC. 4.</head>
+                  <p>Item, all Notaries, who shall receiue any such transports or Sessions, shall be punished by the sayde Prior and Con<g ref="char:EOLhyphen"/>suls, in an arbitrable penaltie: And fur<g ref="char:EOLhyphen"/>ther shall bee condemned, to pay vnto the aduerse Partie, all his costes and charges, which hee hath susteined by meanes thereof; As is contained in the first Article of foresaid Rubricke, taken of the common disposition of right.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Accusations.</head>
+               <p>The Parties may accuse the said Prior and Consuls, and others of their Iuris<g ref="char:EOLhyphen"/>dictions, if they haue lawfull cause so to
+<pb facs="tcp:178654:47"/>doe. And that not in writing but by word, in his presents whom they sus<g ref="char:EOLhyphen"/>pect: And their accusations shall bee summarily examined and decided; And if in case the sayd Prior and Con<g ref="char:EOLhyphen"/>suls should bee accused, then the most auncient Merchants, and those who haue had the first preheminence in the said Bourse, shall sit in the place of the said Prior and Consuls: As is obserued in the other Iurisdictions; And con<g ref="char:EOLhyphen"/>tained in the Kings Ordinances, in the Rubricke of Accusations.</p>
+            </div>
+            <div type="part">
+               <head>Of Distributions.</head>
+               <div n="1" type="article">
+                  <head>
+                     <hi>ARTICLE.</hi> 1.</head>
+                  <p>THe said Prior and Consuls, may distribute the Proces vnto the most auncient Merchants, that bee most expert in the matters that bee in question, to make a true report vnto the sayd Prior and Consuls: according to the allegations and proofes of the saide parties, to the ende to decide the same, according to right; without any
+<pb facs="tcp:178654:48"/>sallery to bee giuen to said Merchants, in regard of their report.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>ARTIC. 2.</head>
+                  <p>Item, all Merchants to whom the said Prior and Consuls shall distribute the Proces, they shall be subiect to take the aduice of the Aduocate, &amp; Attur<g ref="char:EOLhyphen"/>ney of the said Bourse, or of any others, if there bee any difficultie in the cause, to the end to discerne the right, and to make the better report therof vnto the sayd Prior and Consuls, that they may the sooner end the same, according to reason and right, and at the charges of their Parties pursuants, like as the Con<g ref="char:EOLhyphen"/>seruator of the Fayres of the sayd Citie of <hi>Lyon</hi> doth.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Charges and Damages.</head>
+               <div n="1" type="article">
+                  <head>ARTIC. 1.</head>
+                  <p>FIrst all Charges and Damages, shall be taxed by the said Prior and Con<g ref="char:EOLhyphen"/>sulls to a certaine summe, as it shall tru<g ref="char:EOLhyphen"/>ly appeare vnto them, by the discourse of the Proces, hauing a regard to the
+<pb facs="tcp:178654:48"/>qualitie of the Parties, and quantitie of the causes, without receiuing from the Parties any declaration of their charges, and without any other order of proceeding, as is contained in the last Article of the Kings Ordinances, in the Rubricke of Charges: like as the Conseruator of the Fayres of the sayd <hi>Lyon</hi> doth; And is contained in the Letters Patents of the month of Fe<g ref="char:EOLhyphen"/>bruary, hereafter specified.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> 2.</head>
+                  <p>Item, if for the repayre of the Char<g ref="char:EOLhyphen"/>ges, Damages, and Interest, any per<g ref="char:EOLhyphen"/>son were condemned in a penaltie, and to remaine in prison vntill he had satis<g ref="char:EOLhyphen"/>fied the same, by the sayde Prior and Consuls, the sayd partie cannot bee by them inlarged, without the expresse consent of the Partie interessed, or that he haue satisfied him, As is contained in the seuenth and eight Articles in the Rubricke of Charges, And in the sixt Article of the Rubricke of Penalties.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:178654:49"/>
+               <head>Of Penalties.</head>
+               <p>ALl Penalties adiudged by the sayd Prior and Consuls (to be applyed as before said) shall be leauied without delay, as is contained in the second Ar<g ref="char:EOLhyphen"/>ticle of the forefaid Rubricke of Pe<g ref="char:EOLhyphen"/>nalties.</p>
+            </div>
+            <div type="part">
+               <head>Exhortation.</head>
+               <p>THe said Prior and Consuls, for the executing of the Kings pleasure, entertaining of their Iurisdiction, fol<g ref="char:EOLhyphen"/>lowing the Order of the Conseruator of the Fayres of <hi>Lyon,</hi> auoyding of all bribing meanes, which the ministers of other Iurisdictions doe vse, and the easing of all Merchāts: To the end that they may more freely exercise <hi>y<seg rend="sup">e</seg>
+                  </hi> course of their buying &amp; selling of Merchan<g ref="char:EOLhyphen"/>dize, &amp; causes of Exchange in all truth, They must haue regard, that they make no long proceedings, but by all meanes possible force out the trueth, speedily
+<pb facs="tcp:178654:49"/>to decide the cause in question, so farre as appertaineth to their knowledge, by the true affirmations of the Merchants, and not by fained, subtill, and craftie writings, which often times do darken the trueth, vnder the colour of fayre phrases declared in them; For so is the Kings pleasure, in the sayd Letters Pa<g ref="char:EOLhyphen"/>tents of the Month of May, when as He commandeth them to proceed to Iudgements, in matters appertaining to their knowledge summarily, without figure of long pleas, and great solemnities of Proces.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:178654:50"/>
+               <pb facs="tcp:178654:50"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
